@@ -29,7 +29,7 @@
     
 13. {What does NBS accomplish in an alkene reaction?} : {NBS produces selective allylic bromination through a resonance-stabilized allylic radical mechanism.}
     
-14. {What is radical autoxidation?} : {Radical autoxidation is a chain reaction in which carbon radicals react with oxygen to form peroxy radicals and hydroperoxides.}
+14. {What is radical autoxidation?} : {Radical autoxidation is a chain reaction in which carbon radicals react with oxygen to form [^2]peroxy radicals and [^3]hydroperoxides.}
     
 
 ## 3. Alkyl Halides: SN2 Reactions
@@ -429,3 +429,7 @@
 187. {What is ATP hydrolysis?} : {Water cleaves a phosphoanhydride bond in ATP to produce lower-energy phosphate products and release usable free energy.}
 
 [^1]: {next to $\pi$ bond}
+
+[^2]: {ROO*}
+
+[^3]: {ROOH}
