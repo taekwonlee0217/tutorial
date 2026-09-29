@@ -4,7 +4,7 @@
 
 1. {What is industrial chemistry?} : {Industrial chemistry develops, optimizes, scales, and monitors processes that convert raw materials into commercially useful products.}
 
-2. {Why was William Henry Perkin important to industrial organic chemistry?} : {Perkin discovered mauveine in 1856, developed its textile application, patented it, and successfully scaled its manufacture.}
+2. {Why was William Henry Perkin important to industrial organic chemistry?} : {Perkin discovered [^1]mauveine in 1856, developed its textile application, patented it, and successfully scaled its manufacture.}
 
 3. {What distinguishes industrial chemistry from purely academic chemistry?} : {Industrial chemistry is strongly oriented toward practical applications, economics, markets, safety, resource availability, and profitable innovation.}
 
@@ -255,3 +255,5 @@
 114. {Which technologies are used to sort plastic waste?} : {Sorting technologies include manual and size separation, magnets, eddy currents, density and air classification, electrostatic methods, near-infrared spectroscopy, X-ray fluorescence, laser spectroscopy, color imaging, and shape analysis.}
 
 115. {How does repeated mechanical processing affect polymers?} : {Heat, oxygen, shear, contamination, and moisture can cause chain scission, branching, cross-linking, oxidation, discoloration, odor, and declining mechanical performance.}
+
+[^1]: {world's first synthetic organic dye}

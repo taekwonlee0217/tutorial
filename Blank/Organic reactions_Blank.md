@@ -10,7 +10,7 @@
     
 5. {What is a carbocation?} : {A carbocation is a positively charged, sp2-hybridized carbon intermediate whose stability generally follows methyl < primary < secondary < tertiary.}
     
-6. {How does resonance affect carbocation stability?} : {Resonance stabilizes allylic and benzylic carbocations by distributing the positive charge over multiple atoms.}
+6. {How does resonance affect carbocation stability?} : {Resonance stabilizes [^1]allylic and benzylic carbocations by distributing the positive charge over multiple atoms.}
     
 7. {What is a carbanion?} : {A carbanion is a negatively charged carbon species whose stability increases through resonance, electron-withdrawing groups, and greater s character.}
     
@@ -427,3 +427,5 @@
 186. {What is nucleotide phosphodiester-bond formation?} : {A phosphate group forms ester linkages between the 3-prime hydroxyl of one sugar and the 5-prime hydroxyl of another.}
     
 187. {What is ATP hydrolysis?} : {Water cleaves a phosphoanhydride bond in ATP to produce lower-energy phosphate products and release usable free energy.}
+
+[^1]: {next to $\pi$ bond}
