@@ -14,7 +14,7 @@
 
 ## Catalysis: History, Definitions, and Major Classes
 
-9. {What everyday catalyst is emphasized in the introduction?} : {The three-way automotive catalytic converter is presented as one of the best-known catalysts in daily life.}
+9. {What everyday catalyst is emphasized in the introduction?} : {The [^10]three-way automotive catalytic converter is presented as one of the best-known catalysts in daily life.}
 10. {What early catalytic observations preceded the term catalysis?} : {Examples include alcohol dehydration on heated clay, HCN cleavage on iron, hydrogen peroxide decomposition, combustion on platinum, and platinum-catalyzed alcohol oxidation or hydrogen ignition.}
 11. {Who introduced the term catalysis and who supplied its classical kinetic definition?} : {Jöns Jacob Berzelius introduced the term in 1835, and Wilhelm Ostwald later defined catalysis kinetically.}
 12. {What is the modern definition of a catalyst?} : {A catalyst increases reaction rate without being consumed or appearing in the final product and without changing the thermodynamic equilibrium position.}
@@ -404,3 +404,16 @@
 [^8]: {a chemical reaction that adds a hydrogen atom and a functional group across a carbon-carbon double or triple bond in a single step}
 
 [^9]: {a chemical process that replaces an unreactive carbon-hydrogen (C-H) bond with a new carbon-carbon or carbon-heteroatom bond}
+
+[^10]: 1. {Oxidizes [^11]carbon monoxide (CO) into carbon dioxide (CO₂).}
+	2. {Oxidizes [^13]unburned hydrocarbons into CO₂ and water.}
+	3. {Reduces [^12]nitrogen oxides (NOₓ) into nitrogen (N₂).}
+	
+	[^11]: {Poisonous}
+	
+	[^12]: {Contribute to smog, acid rain and respiratory problems}
+	
+	[^13]: {Contribute to smog and may include toxic compounds}
+	
+	
+	
