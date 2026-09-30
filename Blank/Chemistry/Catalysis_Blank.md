@@ -89,39 +89,41 @@
 
 ## Transfer and Asymmetric Hydrogenation
 
-61. {What is transfer hydrogenation?} : {Transfer hydrogenation uses a donor such as an alcohol or formic acid instead of gaseous hydrogen to reduce a substrate.}
-62. {Why is asymmetric transfer hydrogenation valuable?} : {It converts prochiral ketones or imines into enantioenriched alcohols or amines.}
-63. {What is the principle of asymmetric homogeneous hydrogenation?} : {A chiral ligand creates diastereomeric substrate-catalyst pathways with different energies, causing preferential formation of one enantiomer.}
-64. {Which chiral ligand families are highlighted?} : {The lecture highlights DIOP, Chiraphos, DIPAMP, DuPhos, BPE, BINAP, SEGPHOS, Josiphos, and Monophos.}
-65. {How does the Curtin-Hammett principle apply to asymmetric hydrogenation?} : {Rapidly interconverting catalyst-substrate diastereomers can give product ratios governed by the relative transition-state energies rather than ground-state populations alone.}
+61. {What is transfer hydrogenation?} : {Transfer hydrogenation uses a donor such as an alcohol or [^15]formic acid instead of gaseous hydrogen to reduce a substrate.}
+62. {What is asymmetric hydrogenation?} : {It is the addition of hydrogen to an unsaturated molecule using a chiral catalyst.}
+63. {Why is asymmetric transfer hydrogenation valuable?} : {It converts [^16]prochiral ketones or [^17]imines into [^18]enantioenriched alcohols or amines.}
+64. {What is the principle of asymmetric homogeneous hydrogenation?} : {A chiral ligand creates [^20]diastereomeric substrate-catalyst pathways with different energies, causing preferential formation of one enantiomer.}
+65. {Which chiral ligand families are highlighted?} : {The lecture highlights DIOP, Chiraphos, DIPAMP, DuPhos, BPE, BINAP, SEGPHOS, Josiphos, and Monophos.}
+66. {How does the Curtin-Hammett principle apply to asymmetric hydrogenation?} : {Rapidly interconverting catalyst-substrate diastereomers can give product ratios governed by the relative transition-state energies rather than ground-state populations alone.}
 
 ## Hydroformylation, Carbonylation, and Hydrofunctionalization
 
-66. {What is hydroformylation?} : {Hydroformylation, or the oxo reaction, adds hydrogen and formyl groups from H2 and CO across an alkene to form aldehydes.}
+66. {What is hydroformylation?} : {Hydroformylation, or the oxo reaction, adds hydrogen and [^21]formyl groups from H2 and CO across an alkene to form aldehydes.}
 67. {Which metals are important in hydroformylation?} : {Cobalt enabled the original Roelen process, while rhodium catalysts are now especially important industrially.}
-68. {What do the Monsanto and Cativa processes produce?} : {They carbonylate methanol to acetic acid using rhodium and iridium catalysts, respectively.}
+68. {What do the Monsanto and Cativa processes produce?} : {They carbonylate methanol to [^22]acetic acid using rhodium and iridium catalysts, respectively.}
 69. {What are hydrosilylation and hydroamination?} : {Hydrosilylation adds Si-H and hydroamination adds N-H across an unsaturated bond.}
 
 ## Cross-Coupling Reactions and Catalyst Design
 
-70. {What are the canonical steps of a cross-coupling cycle?} : {Oxidative addition, transmetalation or nucleophile transfer, and reductive elimination connect two molecular fragments.}
-71. {Why is transmetalation important?} : {It introduces the second organic group into the metal cycle and is often poorly understood and rate-determining.}
-72. {Which reagents define major named cross-couplings?} : {Kumada uses organomagnesium, Stille organotin, Suzuki organoboron, Negishi organozinc, Hiyama organosilicon, Sonogashira alkynyl copper, Heck alkenes, and Buchwald-Hartwig amines.}
-73. {What extra requirement enables Suzuki-Miyaura transmetalation?} : {A base forms an activated boronate ate complex or replaces palladium halide by an alkoxide that can undergo transmetalation.}
-74. {Why is the Suzuki-Miyaura reaction widely used?} : {Organoboron reagents are versatile, functional-group tolerant, and useful from laboratory synthesis to industrial products such as boscalid.}
-75. {What disadvantages accompany Stille coupling?} : {Organotin reagents are useful and often stable but are toxic and can cause difficult tin-containing waste and product contamination.}
-76. {What side reactions can occur in cross-coupling?} : {Metathesis, homocoupling, and radical pathways can compete when alternative reaction paths are close in energy.}
-77. {How does the Heck reaction functionalize alkenes?} : {After oxidative addition, an alkene inserts into a palladium-carbon bond and beta-hydride elimination releases the substituted alkene.}
-78. {Why are aryl chlorides challenging but attractive coupling partners?} : {Their C-Cl bonds are stronger than C-Br or C-I bonds, but aryl chlorides are inexpensive, stable, and structurally diverse.}
-79. {How do ligands enable coupling of aryl chlorides?} : {Bulky electron-rich ligands promote formation of unsaturated electron-rich metal centers that undergo oxidative addition to strong C-Cl bonds.}
-80. {What does the Tolman cone angle measure?} : {It measures the steric demand of a phosphine ligand around a metal center.}
-81. {What is the ligand bite angle?} : {The bite angle is the angle made by the two donor atoms of a chelating ligand at the metal, while the natural bite angle reflects ligand-backbone preference.}
-82. {How is NHC steric demand commonly expressed?} : {It is commonly expressed as percent buried volume around the metal center.}
-83. {Why does the metal-to-ligand ratio matter?} : {It determines catalyst speciation, coordination saturation, active-site availability, and therefore activity and selectivity.}
-84. {How do palladium and nickel differ in coupling chemistry?} : {Nickel is less costly and can activate chloro- and even fluoroarenes, but its reactivity and selectivity are especially ligand dependent.}
-85. {What is carbonylative cross-coupling?} : {It inserts CO into a metal-carbon bond during coupling to generate carbonyl-containing products.}
-86. {How can the hazards of gaseous carbon monoxide be reduced?} : {Solid or liquid CO-releasing surrogates can generate the required carbon monoxide in situ.}
-87. {What problem did Buchwald-Hartwig coupling solve?} : {It enabled catalytic coupling of aryl electrophiles with noncarbon nucleophiles, especially amines, to form C-N bonds.}
+70. {What is cross coupling reaction?} : {It joins two different molecular fragments - usually by forming a new carbon-carbon bond - with the help of a metal catalyst.}
+71. {What are the [^23]canonical steps of a cross-coupling cycle?} : {Oxidative addition, transmetalation or nucleophile transfer, and reductive elimination connect two molecular fragments.}
+72. {Why is transmetalation important?} : {It introduces the second organic group into the metal cycle and is often poorly understood and rate-determining.}
+73. {Which reagents define major named cross-couplings?} : {Kumada uses organomagnesium, Stille organotin, Suzuki organoboron, Negishi organozinc, Hiyama organosilicon, Sonogashira alkynyl copper, Heck alkenes, and Buchwald-Hartwig amines.}
+74. {What extra requirement enables Suzuki-Miyaura transmetalation?} : {A base forms an activated boronate ate complex or replaces palladium halide by an alkoxide that can undergo transmetalation.}
+75. {Why is the Suzuki-Miyaura reaction widely used?} : {Organoboron reagents are versatile, functional-group tolerant, and useful from laboratory synthesis to industrial products such as boscalid.}
+76. {What disadvantages accompany Stille coupling?} : {Organotin reagents are useful and often stable but are toxic and can cause difficult tin-containing waste and product contamination.}
+77. {What side reactions can occur in cross-coupling?} : {Metathesis, homocoupling, and radical pathways can compete when alternative reaction paths are close in energy.}
+78. {How does the Heck reaction functionalize alkenes?} : {After oxidative addition, an alkene inserts into a palladium-carbon bond and beta-hydride elimination releases the substituted alkene.}
+79. {Why are aryl chlorides challenging but attractive coupling partners?} : {Their C-Cl bonds are stronger than C-Br or C-I bonds, but aryl chlorides are inexpensive, stable, and structurally diverse.}
+80. {How do ligands enable coupling of aryl chlorides?} : {Bulky electron-rich ligands promote formation of unsaturated electron-rich metal centers that undergo oxidative addition to strong C-Cl bonds.}
+81. {What does the Tolman cone angle measure?} : {It measures the steric demand of a phosphine ligand around a metal center.}
+82. {What is the ligand bite angle?} : {The bite angle is the angle made by the two donor atoms of a chelating ligand at the metal, while the natural bite angle reflects ligand-backbone preference.}
+83. {How is NHC steric demand commonly expressed?} : {It is commonly expressed as percent buried volume around the metal center.}
+84. {Why does the metal-to-ligand ratio matter?} : {It determines catalyst speciation, coordination saturation, active-site availability, and therefore activity and selectivity.}
+85. {How do palladium and nickel differ in coupling chemistry?} : {Nickel is less costly and can activate chloro- and even fluoroarenes, but its reactivity and selectivity are especially ligand dependent.}
+86. {What is carbonylative cross-coupling?} : {It inserts CO into a metal-carbon bond during coupling to generate carbonyl-containing products.}
+87. {How can the hazards of gaseous carbon monoxide be reduced?} : {Solid or liquid CO-releasing surrogates can generate the required carbon monoxide in situ.}
+88. {What problem did Buchwald-Hartwig coupling solve?} : {It enabled catalytic coupling of aryl electrophiles with noncarbon nucleophiles, especially amines, to form C-N bonds.}
 
 ## Olefin and Alkyne Metathesis
 
@@ -419,3 +421,22 @@
 	
 
 [^14]: {NO3-}
+
+[^15]: {HCOOH, simplest carboxylic acid}
+
+[^16]: {becomes chiral when reacts, usually when two attaching groups are different}
+
+[^17]: {C=N}
+
+[^18]: {a chemical substance or sample that contains an unequal mixture of a pair of [^19]enantiomers}
+	
+	[^19]: {non-spuerposable mirror image}
+	
+
+[^20]: {no mirror image}
+
+[^21]: {R-CHO}
+
+[^22]: {CH3-COOH}
+
+[^23]: 표준이 되는
