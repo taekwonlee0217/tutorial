@@ -18,7 +18,7 @@
 10. {What early catalytic observations preceded the term catalysis?} : {Examples include alcohol dehydration on heated clay, HCN cleavage on iron, hydrogen peroxide decomposition, combustion on platinum, and platinum-catalyzed alcohol oxidation or hydrogen ignition.}
 11. {Who introduced the term catalysis and who supplied its classical kinetic definition?} : {Jöns Jacob Berzelius introduced the term in 1835, and Wilhelm Ostwald later defined catalysis kinetically.}
 12. {What is the modern definition of a catalyst?} : {A catalyst increases reaction rate without being consumed or appearing in the final product and without changing the thermodynamic equilibrium position.}
-13. {Why was the Haber-Bosch process historically decisive?} : {It enabled artificial nitrogen fixation when natural nitrate supplies were inadequate for agriculture and wartime demand.}
+13. {Why was the Haber-Bosch process historically decisive?} : {It enabled artificial nitrogen fixation when natural [^14]nitrate supplies were inadequate for agriculture and wartime demand.}
 14. {Who developed and industrialized the Haber-Bosch process?} : {Fritz Haber developed the chemical procedure, Carl Bosch industrialized it in about four years, and Alwin Mittasch developed the iron catalyst.}
 15. {What are the scale and energy burden of Haber-Bosch ammonia production?} : {The process produces roughly 120 million tonnes of ammonia annually and can consume about 1.1 percent of world energy production.}
 16. {What belongs to the toolbox of catalytic science?} : {The toolbox includes catalyst classes, kinetics, thermodynamics, temperature effects, elementary steps, cycles, transition-state theory, performance metrics, and analytical methods.}
@@ -417,3 +417,5 @@
 	
 	
 	
+
+[^14]: {NO3-}
