@@ -37,10 +37,10 @@
 30. {How are homogeneous catalytic reactions broadly classified?} : {They include Brønsted acid-base, Lewis acid-base or nucleophilic-electrophilic, redox, coordination-complex, and organometallic complex catalysis.}
 31. {What are Brønsted acids and bases?} : {A Brønsted acid donates a proton and a Brønsted base accepts a proton.}
 32. {What distinguishes specific from general acid or base catalysis?} : {Specific catalysis depends only on hydronium or hydroxide, whereas general catalysis allows other acids or bases to participate in proton transfer.}
-33. {What are classical examples of Lewis acid and nucleophilic catalysis?} : {Friedel-Crafts reactions use electrophilic Lewis acids such as aluminum chloride, while DMAP catalyzes acylations by nucleophilic catalysis.}
+33. {What are classical examples of Lewis acid and nucleophilic catalysis?} : {Friedel-Crafts reactions use electrophilic Lewis acids such as aluminum chloride, while DMAP catalyzes [^1]acylations by nucleophilic catalysis.}
 34. {What is Pearson's HSAB principle?} : {Hard acids preferentially bind hard bases and soft acids preferentially bind soft bases because of charge-controlled and orbital-controlled interactions.}
 35. {Which bonding models are important in organometallic catalysis?} : {Important models include the 18-electron rule, valence-bond, VSEPR, molecular-orbital, Dewar-Chatt-Duncanson, crystal-field, and ligand-field theories.}
-36. {Why is molecular-orbital theory needed for metal carbonyls?} : {It explains covalent donation and back-bonding in neutral metal carbonyls that a purely electrostatic ligand-field model cannot adequately describe.}
+36. {Why is molecular-orbital theory needed for [^2]metal carbonyls?} : {It explains covalent donation and back-bonding in neutral metal carbonyls that a purely electrostatic ligand-field model cannot adequately describe.}
 37. {What historical discoveries established organometallic catalysis?} : {Milestones include Zeise's salt, diethylzinc, nickel tetracarbonyl, metal carbonyls, hydroformylation, ferrocene, Ziegler-Natta polymerization, the Wacker process, cross-coupling, metathesis, and organocatalysis.}
 38. {What does the 18-electron rule state?} : {Transition-metal complexes are often especially stable when metal d electrons plus ligand-donated electrons total 18, analogous to a noble-gas valence shell.}
 39. {Why is the 18-electron rule also useful for oxidation-state assignments?} : {Ionic or covalent electron counting connects ligand charge and donation to the metal electron count and hence to its formal oxidation state.}
@@ -302,3 +302,7 @@
 265. {Which reactions occur in a three-way catalytic converter?} : {Pt and Pd oxidize CO and hydrocarbons, while Rh reduces NO with CO or hydrogen to nitrogen.}
 266. {Why is the Rhone-Poulenc hydroformylation process biphasic?} : {Water-soluble sulfonated phosphines keep the rhodium catalyst in an aqueous phase while organic products separate and the catalyst solution is recycled.}
 267. {What does the BP-AVADA process produce?} : {It produces ethyl acetate from ethylene and acetic acid using a tungsten phosphoric heteropoly-acid catalyst with reactant recycle and distillation.}
+
+[^1]: {acyl group} : {R-C=O}
+
+[^2]: {Coordination complexes of transition metals with carbon monoxide ligands}
