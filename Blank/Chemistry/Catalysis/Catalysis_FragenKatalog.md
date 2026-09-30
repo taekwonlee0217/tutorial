@@ -12,7 +12,7 @@
 
 4. {Use the four turnover-time curves to compare catalyst productivity and activity.} : {Curve 4 has the greatest initial activity but unknown lifetime, curve 1 has moderate activity and the highest observed plateau productivity, curve 2 starts more rapidly but deactivates at a lower total productivity, and curve 3 has low constant activity yet can achieve the greatest long-term productivity because it remains active.}
 
-5. {What is a volcano curve, for example for the Haber-Bosch process, and what can be concluded from it?} : {A volcano curve plots catalytic activity against a binding descriptor such as nitrogen adsorption energy and shows that maximum activity occurs at intermediate binding strength because weak binding prevents activation while strong binding blocks turnover and desorption.}
+5. {What is a volcano curve, for example for the Haber-Bosch process, and what can be concluded from it?} : {A volcano curve plots catalytic activity against adsorption energy and shows that maximum activity occurs at intermediate binding strength because weak binding prevents activation while strong binding blocks turnover and desorption.}
 
 6. {Which statement correctly expresses the Sabatier principle, and why?} : {Statement (a) is correct because catalyst-substrate binding must be strong enough for adsorption and activation but weak enough for subsequent reaction and product desorption.}
 
@@ -44,7 +44,7 @@
 
 ### Large-scale carbonylation, oligomerisation, and polymerisation
 
-25. {Explain the Rhone-Poulenc process for hydroformylation of an alkene such as propene.} : {The Rhone-Poulenc process uses a water-soluble Rh-TPPTS complex in an aqueous phase to hydroformylate propene with CO/H2 mainly to n-butanal, after which the organic product phase separates and the rhodium catalyst remains in water for recycle.}
+25. {Explain the Rhone-Poulenc process for [^1]hydroformylation of an alkene such as propene.} : {The Rhone-Poulenc process uses a water-soluble Rh-TPPTS complex in an aqueous phase to hydroformylate propene with CO/H2 mainly to n-butanal, after which the organic product phase separates and the rhodium catalyst remains in water for recycle.}
 
 26. {Describe classical Ziegler-Natta catalysis with titanium compounds and aluminium alkyls.} : {AlR3 alkylates and reduces TiCl4 on MgCl2 to an active Ti-alkyl site, olefin coordinates and inserts repeatedly into the Ti-C bond by the Cossee-Arlman mechanism, and chain transfer terminates growth while the supported chiral environment controls stereochemistry.}
 
@@ -192,7 +192,7 @@
 
 ### Mechanisms and immobilisation
 
-29. {What is carbonic anhydrase's role, mechanism, and central active-site feature?} : {Carbonic anhydrase rapidly interconverts CO2 + H2O and HCO3<sup>-</sup> + H<sup>+</sup> by using a Zn2+ centre coordinated by three histidines to lower the pKa of bound water, whose hydroxide attacks CO2 before bicarbonate displacement regenerates Zn-bound water.}
+29. {What is carbonic anhydrase's role, mechanism, and central active-site feature?} : {Carbonic anhydrase rapidly interconverts CO2 + H2O and HCO3<sup>-</sup> + H<sup>+</sup> by using a Zn2+ centre coordinated by three [^2]histidines to lower the pKa of bound water, whose hydroxide attacks CO2 before bicarbonate displacement regenerates Zn-bound water.}
 
 30. {Name and explain two ways to immobilise enzymes.} : {Enzymes can be covalently attached to a solid support through surface functional groups for low leaching and repeated use, or physically entrapped in a porous gel or capsule that retains the enzyme while allowing substrate and product diffusion.}
 
@@ -207,3 +207,10 @@
 53. {What is the HFCS process, its substrates and products, enzyme, flow scheme, and immobilisation mode?} : {HFCS production converts starch -> glucose syrup -> an equilibrium mixture enriched to about 42% fructose using immobilised xylose isomerase in packed columns, after which chromatographic enrichment and blending give commercial 55% fructose syrup while the bound enzyme remains for continuous reuse.}
 
 54. {How does xylose isomerase convert glucose to fructose in HFCS?} : {At a dinuclear Mg2+ or Mn2+ active centre glucose binds and opens, metal-assisted proton transfers generate the proper alkoxide, a stereospecific hydride shift moves H from C2 to C1 while the carbonyl shifts from C1 to C2, and protonation plus ring closure releases fructose.}
+
+[^1]: converts an **alkene** into an **aldehyde** by adding:
+
+- hydrogen (H₂)
+- carbon monoxide (CO)
+
+[^2]: {essential amino acid in a body}
