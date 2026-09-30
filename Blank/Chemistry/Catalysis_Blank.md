@@ -114,22 +114,22 @@
 76. {What disadvantages accompany Stille coupling?} : {Organotin reagents are useful and often stable but are toxic and can cause difficult tin-containing waste and product contamination.}
 77. {What side reactions can occur in cross-coupling?} : {Metathesis, homocoupling, and radical pathways can compete when alternative reaction paths are close in energy.}
 78. {How does the Heck reaction functionalize alkenes?} : {After oxidative addition, an alkene inserts into a palladium-carbon bond and beta-hydride elimination releases the substituted alkene.}
-79. {Why are aryl chlorides challenging but attractive coupling partners?} : {Their C-Cl bonds are stronger than C-Br or C-I bonds, but aryl chlorides are inexpensive, stable, and structurally diverse.}
+79. {Why are [^24]aryl chlorides challenging but attractive coupling partners?} : {Their C-Cl bonds are stronger than C-Br or C-I bonds, but aryl chlorides are inexpensive, stable, and structurally diverse.}
 80. {How do ligands enable coupling of aryl chlorides?} : {Bulky electron-rich ligands promote formation of unsaturated electron-rich metal centers that undergo oxidative addition to strong C-Cl bonds.}
 81. {What does the Tolman cone angle measure?} : {It measures the steric demand of a phosphine ligand around a metal center.}
 82. {What is the ligand bite angle?} : {The bite angle is the angle made by the two donor atoms of a chelating ligand at the metal, while the natural bite angle reflects ligand-backbone preference.}
 83. {How is NHC steric demand commonly expressed?} : {It is commonly expressed as percent buried volume around the metal center.}
 84. {Why does the metal-to-ligand ratio matter?} : {It determines catalyst speciation, coordination saturation, active-site availability, and therefore activity and selectivity.}
-85. {How do palladium and nickel differ in coupling chemistry?} : {Nickel is less costly and can activate chloro- and even fluoroarenes, but its reactivity and selectivity are especially ligand dependent.}
+85. {How do palladium and nickel differ in coupling chemistry?} : {Nickel is less costly and can activate chloro- and even [^25]fluoroarenes, but its reactivity and selectivity are especially ligand dependent.}
 86. {What is carbonylative cross-coupling?} : {It inserts CO into a metal-carbon bond during coupling to generate carbonyl-containing products.}
-87. {How can the hazards of gaseous carbon monoxide be reduced?} : {Solid or liquid CO-releasing surrogates can generate the required carbon monoxide in situ.}
+87. {How can the hazards of gaseous carbon monoxide be reduced?} : {Solid or liquid CO-releasing [^26]surrogates can generate the required carbon monoxide in situ.}
 88. {What problem did Buchwald-Hartwig coupling solve?} : {It enabled catalytic coupling of aryl electrophiles with noncarbon nucleophiles, especially amines, to form C-N bonds.}
 
 ## Olefin and Alkyne Metathesis
 
-88. {What is olefin metathesis?} : {A metal alkylidene exchanges alkene fragments through a metallacyclobutane-forming cycloaddition and cycloreversion sequence.}
+88. {What is [^27]olefin metathesis?} : {A metal [^28]alkylidene exchanges alkene fragments through a metallacyclobutane-forming cycloaddition and cycloreversion sequence.}
 89. {Why can entropy drive olefin metathesis?} : {Because broken and formed alkene bonds have similar enthalpies, favorable product-number or volatility effects can make the entropy term decisive.}
-90. {How do Fischer and Schrock carbenes differ?} : {Fischer carbenes are electrophilic and use low-valent electron-rich metals with pi-acceptor ligands, whereas Schrock alkylidenes are nucleophilic and use high-valent electron-poor early metals.}
+90. {How do Fischer and Schrock [^29]carbenes differ?} : {Fischer carbenes are electrophilic and use low-valent electron-rich metals with pi-acceptor ligands, whereas Schrock alkylidenes are nucleophilic and use high-valent electron-poor early metals.}
 91. {What are the main variants of metathesis?} : {They include ring-opening polymerization, acyclic diene metathesis polymerization, ring-closing metathesis, cross metathesis, enyne metathesis, and alkyne metathesis.}
 92. {Why is ring-closing metathesis important?} : {It is a general method for constructing carbocycles, heterocycles, and macrocycles in complex-molecule synthesis.}
 93. {How is alkyne metathesis related to olefin metathesis?} : {It similarly uses a metal-carbene-type species and alternating cycloaddition and cycloreversion, but proceeds through metallacyclobutadiene intermediates.}
@@ -440,3 +440,15 @@
 [^22]: {CH3-COOH}
 
 [^23]: 표준이 되는
+
+[^24]: {Ph-X}
+
+[^25]: {aromatic organic compounds where one or more hydrogen atoms on an aromatic ring are replaced by fluorine atoms}
+
+[^26]: 대리의
+
+[^27]: {=alkene}
+
+[^28]: {R2C=}
+
+[^29]: {R-:C-R , neutral carbon+two unshared valence electrons}
