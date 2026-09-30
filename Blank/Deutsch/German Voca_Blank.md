@@ -1,201 +1,229 @@
-1. {die Erfahrung, -en} — {experience}
-2. {die Entscheidung, -en} — {decision}
-3. {die Möglichkeit, -en} — {possibility}
-4. {die Verantwortung} — {responsibility}
-5. {die Ausbildung, -en} — {vocational training}
-6. {die Bewerbung, -en} — {application}
-7. {der Lebenslauf, ⸚e} — {résumé/CV}
-8. {die Voraussetzung, -en} — {requirement}
-9. {die Fähigkeit, -en} — {ability}
-10. {die Beziehung, -en} — {relationship}
-11. {die Umgebung, -en} — {surroundings}
-12. {die Veranstaltung, -en} — {event}
-13. {die Gewohnheit, -en} — {habit}
-14. {die Meinung, -en} — {opinion}
-15. {der Unterschied, -e} — {difference}
-16. {der Vorteil, -e} — {advantage}
-17. {der Nachteil, -e} — {disadvantage}
-18. {die Lösung, -en} — {solution}
-19. {das Verhalten} — {behaviour}
-20. {die Entwicklung, -en} — {development}
-21. {die Gesellschaft, -en} — {society}
-22. {die Gesundheit} — {health}
-23. {die Ernährung} — {nutrition}
-24. {die Umwelt} — {environment}
-25. {der Verkehr} — {traffic/transport}
-26. {die Unterkunft, ⸚e} — {accommodation}
-27. {die Gelegenheit, -en} — {opportunity}
-28. {die Zukunft} — {future}
-29. {die Vergangenheit} — {past}
-30. {der Fortschritt, -e} — {progress}
-31. {sich entscheiden} — {to decide}
-32. {sich bewerben} — {to apply}
-33. {teilnehmen} — {to participate}
-34. {vermeiden} — {to avoid}
-35. {ermöglichen} — {to make possible}
-36. {erwarten} — {to expect}
-37. {erreichen} — {to achieve/reach}
-38. {sich verbessern} — {to improve}
-39. {sich verändern} — {to change}
-40. {sich gewöhnen an} — {to get used to}
-41. {abhängen von} — {to depend on}
-42. {sich kümmern um} — {to take care of}
-43. {sich erinnern an} — {to remember}
-44. {sich vorbereiten auf} — {to prepare for}
-45. {sich interessieren für} — {to be interested in}
-46. {zustimmen} — {to agree}
-47. {ablehnen} — {to reject}
-48. {vorschlagen} — {to suggest}
-49. {begründen} — {to justify/give a reason}
-50. {beschreiben} — {to describe}
-51. {berichten über} — {to report/talk about}
-52. {erklären} — {to explain}
-53. {vergleichen} — {to compare}
-54. {unterstützen} — {to support}
-55. {überzeugen} — {to convince}
-56. {sich beschweren über} — {to complain about}
-57. {vereinbaren} — {to arrange/agree upon}
-58. {verschieben} — {to postpone}
-59. {kündigen} — {to resign/cancel}
-60. {sparen} — {to save}
-61. {zuverlässig} — {reliable}
-62. {verantwortlich} — {responsible}
-63. {selbstständig} — {independent}
-64. {erfolgreich} — {successful}
-65. {zufrieden} — {satisfied}
-66. {enttäuscht} — {disappointed}
-67. {überrascht} — {surprised}
-68. {notwendig} — {necessary}
-69. {wahrscheinlich} — {probable/probably}
-70. {möglich} — {possible}
-71. {unterschiedlich} — {different/varied}
-72. {ähnlich} — {similar}
-73. {üblich} — {usual/customary}
-74. {höflich} — {polite}
-75. {geduldig} — {patient}
-76. {anstrengend} — {exhausting}
-77. {praktisch} — {practical}
-78. {rechtzeitig} — {on time}
-79. {regelmäßig} — {regularly}
-80. {gemeinsam} — {together/joint}
-81. {obwohl} — {although}
-82. {trotzdem} — {nevertheless}
-83. {deshalb} — {therefore}
-84. {deswegen} — {for that reason}
-85. {während} — {while/whereas}
-86. {sobald} — {as soon as}
-87. {solange} — {as long as}
-88. {falls} — {in case/if}
-89. {damit} — {so that}
-90. {außerdem} — {furthermore}
-91. {allerdings} — {however}
-92. {einerseits … andererseits} — {on one hand … on the other hand}
-93. {nicht nur … sondern auch} — {not only … but also}
-94. {entweder … oder} — {either … or}
-95. {weder … noch} — {neither … nor}
-96. {meiner Meinung nach} — {in my opinion}
-97. {es kommt darauf an} — {it depends}
-98. {im Gegensatz zu} — {in contrast to}
-99. {zum Beispiel} — {for example}
-100. {auf jeden Fall} — {definitely/in any case}
----
-101. {die Herausforderung, -en} — {challenge}
-102. {die Verbesserung, -en} — {improvement}
-103. {die Forschung, -en} — {research}
-104. {das Ergebnis, -se} — {result}
-105. {der Erfolg, -e} — {success}
-106. {der Misserfolg, -e} — {failure}
-107. {die Ursache, -n} — {cause}
-108. {die Wirkung, -en} — {effect}
-109. {der Einfluss, ⸚e} — {influence}
-110. {die Erfahrung, -en} — {experience}
-111. {das Ziel, -e} — {goal}
-112. {der Zweck, -e} — {purpose}
-113. {die Nachfrage, -n} — {demand}
-114. {das Angebot, -e} — {offer}
-115. {die Erlaubnis, -se} — {permission}
-116. {das Verbot, -e} — {prohibition}
-117. {die Pflicht, -en} — {duty}
-118. {das Gesetz, -e} — {law}
-119. {die Regel, -n} — {rule}
-120. {die Sicherheit} — {safety/security}
-121. {die Gefahr, -en} — {danger}
-122. {der Schutz} — {protection}
-123. {die Versicherung, -en} — {insurance}
-124. {der Vertrag, ⸚e} — {contract}
-125. {die Rechnung, -en} — {bill/invoice}
-126. {der Betrag, ⸚e} — {amount}
-127. {das Einkommen} — {income}
-128. {die Ausgabe, -n} — {expense}
-129. {die Schulden} — {debts}
-130. {die Unterstützung, -en} — {support}
-131. {beantragen} — {to apply for}
-132. {genehmigen} — {to approve}
-133. {bestätigen} — {to confirm}
-134. {behaupten} — {to claim}
-135. {beweisen} — {to prove}
-136. {entdecken} — {to discover}
-137. {untersuchen} — {to examine}
-138. {feststellen} — {to determine/notice}
-139. {verursachen} — {to cause}
-140. {beeinflussen} — {to influence}
-141. {entwickeln} — {to develop}
-142. {herstellen} — {to produce}
-143. {verwenden} — {to use}
-144. {ersetzen} — {to replace}
-145. {reduzieren} — {to reduce}
-146. {erhöhen} — {to increase}
-147. {sinken} — {to decrease/fall}
-148. {steigen} — {to increase/rise}
-149. {liefern} — {to deliver}
-150. {bestellen} — {to order}
-151. {umtauschen} — {to exchange}
-152. {zurückgeben} — {to return}
-153. {überweisen} — {to transfer money}
-154. {ausgeben} — {to spend}
-155. {leihen} — {to lend/borrow}
-156. {gehören zu} — {to belong to}
-157. {bestehen aus} — {to consist of}
-158. {führen zu} — {to lead to}
-159. {bitten um} — {to ask for}
-160. {warnen vor} — {to warn about}
-161. {sich entschuldigen für} — {to apologize for}
-162. {sich bedanken bei} — {to thank someone}
-163. {sich verabreden mit} — {to arrange to meet}
-164. {sich unterhalten über} — {to talk about}
-165. {sich bemühen um} — {to make an effort}
-166. {geeignet} — {suitable}
-167. {verfügbar} — {available}
-168. {beschäftigt} — {busy/employed}
-169. {arbeitslos} — {unemployed}
-170. {dringend} — {urgent}
-171. {freiwillig} — {voluntary}
-172. {gesetzlich} — {legal/statutory}
-173. {öffentlich} — {public}
-174. {privat} — {private}
-175. {örtlich} — {local}
-176. {international} — {international}
-177. {durchschnittlich} — {average}
-178. {vollständig} — {complete}
-179. {deutlich} — {clear/noticeable}
-180. {knapp} — {scarce/just under}
-181. {vermutlich} — {presumably}
-182. {offensichtlich} — {obviously}
-183. {besonders} — {especially}
-184. {grundsätzlich} — {generally/in principle}
-185. {gegenseitig} — {mutual}
-186. {aus diesem Grund} — {for this reason}
-187. {im Allgemeinen} — {in general}
-188. {in der Regel} — {as a rule/usually}
-189. {im Voraus} — {in advance}
-190. {nach und nach} — {gradually}
-191. {von Zeit zu Zeit} — {from time to time}
-192. {unter anderem} — {among other things}
-193. {sowohl … als auch} — {both … and}
-194. {je … desto} — {the … the}
-195. {im Vergleich zu} — {in comparison with}
-196. {in Bezug auf} — {with regard to}
-197. {zur Verfügung stehen} — {to be available}
-198. {eine Rolle spielen} — {to play a role}
-199. {Rücksicht nehmen auf} — {to show consideration for}
-200. {Bescheid geben} — {to let someone know}
+### Work, education and achievement
+
+1. {die Erfahrung, -en} : {experience}
+2. {die Verantwortung} : {responsibility}
+3. {die Ausbildung, -en} : {vocational training}
+4. {die Bewerbung, -en} : {application}
+5. {der Lebenslauf, ⸚e} : {résumé/CV}
+6. {die Voraussetzung, -en} : {requirement}
+7. {die Fähigkeit, -en} : {ability}
+8. {die Entwicklung, -en} : {development}
+9. {der Fortschritt, -e} : {progress}
+10. {sich bewerben} : {to apply}
+11. {erreichen} : {to achieve/reach}
+12. {sich verbessern} : {to improve}
+13. {sich vorbereiten auf} : {to prepare for}
+14. {kündigen} : {to resign/cancel}
+15. {zuverlässig} : {reliable}
+16. {verantwortlich} : {responsible}
+17. {selbstständig} : {independent}
+18. {erfolgreich} : {successful}
+19. {anstrengend} : {exhausting}
+20. {rechtzeitig} : {on time}
+21. {die Herausforderung, -en} : {challenge}
+22. {die Verbesserung, -en} : {improvement}
+23. {der Erfolg, -e} : {success}
+24. {der Misserfolg, -e} : {failure}
+25. {das Ziel, -e} : {goal}
+26. {der Zweck, -e} : {purpose}
+27. {sich bemühen um} : {to make an effort}
+28. {beschäftigt} : {busy/employed}
+29. {arbeitslos} : {unemployed}
+
+### Decisions, planning, time and change
+
+30. {die Entscheidung, -en} : {decision}
+31. {die Möglichkeit, -en} : {possibility}
+32. {die Lösung, -en} : {solution}
+33. {die Gelegenheit, -en} : {opportunity}
+34. {die Zukunft} : {future}
+35. {die Vergangenheit} : {past}
+36. {sich entscheiden} : {to decide}
+37. {ermöglichen} : {to make possible}
+38. {erwarten} : {to expect}
+39. {sich verändern} : {to change}
+40. {abhängen von} : {to depend on}
+41. {sich erinnern an} : {to remember}
+42. {vereinbaren} : {to arrange/agree upon}
+43. {verschieben} : {to postpone}
+44. {notwendig} : {necessary}
+45. {wahrscheinlich} : {probable/probably}
+46. {möglich} : {possible}
+47. {regelmäßig} : {regularly}
+48. {geeignet} : {suitable}
+49. {verfügbar} : {available}
+50. {dringend} : {urgent}
+51. {vollständig} : {complete}
+52. {im Voraus} : {in advance}
+53. {nach und nach} : {gradually}
+54. {zur Verfügung stehen} : {to be available}
+
+### Relationships, society and social behaviour
+
+55. {die Beziehung, -en} : {relationship}
+56. {die Gewohnheit, -en} : {habit}
+57. {das Verhalten} : {behaviour}
+58. {die Gesellschaft, -en} : {society}
+59. {sich gewöhnen an} : {to get used to}
+60. {sich kümmern um} : {to take care of}
+61. {unterstützen} : {to support}
+62. {zufrieden} : {satisfied}
+63. {enttäuscht} : {disappointed}
+64. {überrascht} : {surprised}
+65. {höflich} : {polite}
+66. {geduldig} : {patient}
+67. {gemeinsam} : {together/joint}
+68. {die Unterstützung, -en} : {support}
+69. {sich entschuldigen für} : {to apologize for}
+70. {sich bedanken bei} : {to thank someone}
+71. {sich verabreden mit} : {to arrange to meet}
+72. {sich unterhalten über} : {to talk about}
+73. {freiwillig} : {voluntary}
+74. {öffentlich} : {public}
+75. {privat} : {private}
+76. {örtlich} : {local}
+77. {international} : {international}
+78. {gegenseitig} : {mutual}
+79. {Rücksicht nehmen auf} : {to show consideration for}
+
+### Health, environment, travel and events
+
+80. {die Umgebung, -en} : {surroundings}
+81. {die Veranstaltung, -en} : {event}
+82. {die Gesundheit} : {health}
+83. {die Ernährung} : {nutrition}
+84. {die Umwelt} : {environment}
+85. {der Verkehr} : {traffic/transport}
+86. {die Unterkunft, ⸚e} : {accommodation}
+87. {teilnehmen} : {to participate}
+88. {vermeiden} : {to avoid}
+89. {sich interessieren für} : {to be interested in}
+90. {die Sicherheit} : {safety/security}
+91. {die Gefahr, -en} : {danger}
+92. {der Schutz} : {protection}
+93. {warnen vor} : {to warn about}
+
+### Communication, opinions and arguments
+
+94. {die Meinung, -en} : {opinion}
+95. {zustimmen} : {to agree}
+96. {ablehnen} : {to reject}
+97. {vorschlagen} : {to suggest}
+98. {begründen} : {to justify/give a reason}
+99. {beschreiben} : {to describe}
+100. {berichten über} : {to report/talk about}
+101. {erklären} : {to explain}
+102. {überzeugen} : {to convince}
+103. {sich beschweren über} : {to complain about}
+104. {bestätigen} : {to confirm}
+105. {behaupten} : {to claim}
+106. {beweisen} : {to prove}
+107. {bitten um} : {to ask for}
+108. {Bescheid geben} : {to let someone know}
+
+### Comparison and evaluation
+
+109. {der Unterschied, -e} : {difference}
+110. {der Vorteil, -e} : {advantage}
+111. {der Nachteil, -e} : {disadvantage}
+112. {vergleichen} : {to compare}
+113. {unterschiedlich} : {different/varied}
+114. {ähnlich} : {similar}
+115. {üblich} : {usual/customary}
+116. {praktisch} : {practical}
+117. {durchschnittlich} : {average}
+118. {deutlich} : {clear/noticeable}
+119. {knapp} : {scarce/just under}
+
+### Law, rules, administration and contracts
+
+120. {die Erlaubnis, -se} : {permission}
+121. {das Verbot, -e} : {prohibition}
+122. {die Pflicht, -en} : {duty}
+123. {das Gesetz, -e} : {law}
+124. {die Regel, -n} : {rule}
+125. {die Versicherung, -en} : {insurance}
+126. {der Vertrag, ⸚e} : {contract}
+127. {beantragen} : {to apply for}
+128. {genehmigen} : {to approve}
+129. {gesetzlich} : {legal/statutory}
+
+### Money, shopping and business
+
+130. {sparen} : {to save}
+131. {die Nachfrage, -n} : {demand}
+132. {das Angebot, -e} : {offer}
+133. {die Rechnung, -en} : {bill/invoice}
+134. {der Betrag, ⸚e} : {amount}
+135. {das Einkommen} : {income}
+136. {die Ausgabe, -n} : {expense}
+137. {die Schulden} : {debts}
+138. {herstellen} : {to produce}
+139. {verwenden} : {to use}
+140. {ersetzen} : {to replace}
+141. {reduzieren} : {to reduce}
+142. {erhöhen} : {to increase}
+143. {sinken} : {to decrease/fall}
+144. {steigen} : {to increase/rise}
+145. {liefern} : {to deliver}
+146. {bestellen} : {to order}
+147. {umtauschen} : {to exchange}
+148. {zurückgeben} : {to return}
+149. {überweisen} : {to transfer money}
+150. {ausgeben} : {to spend}
+151. {leihen} : {to lend/borrow}
+
+### Research, cause and effect
+
+152. {die Forschung, -en} : {research}
+153. {das Ergebnis, -se} : {result}
+154. {die Ursache, -n} : {cause}
+155. {die Wirkung, -en} : {effect}
+156. {der Einfluss, ⸚e} : {influence}
+157. {die Erfahrung, -en} : {experience}
+158. {entdecken} : {to discover}
+159. {untersuchen} : {to examine}
+160. {feststellen} : {to determine/notice}
+161. {verursachen} : {to cause}
+162. {beeinflussen} : {to influence}
+163. {entwickeln} : {to develop}
+164. {gehören zu} : {to belong to}
+165. {bestehen aus} : {to consist of}
+166. {führen zu} : {to lead to}
+
+### Connectors and useful expressions
+
+167. {obwohl} : {although}
+168. {trotzdem} : {nevertheless}
+169. {deshalb} : {therefore}
+170. {deswegen} : {for that reason}
+171. {während} : {while/whereas}
+172. {sobald} : {as soon as}
+173. {solange} : {as long as}
+174. {falls} : {in case/if}
+175. {damit} : {so that}
+176. {außerdem} : {furthermore}
+177. {allerdings} : {however}
+178. {einerseits … andererseits} : {on one hand … on the other hand}
+179. {nicht nur … sondern auch} : {not only … but also}
+180. {entweder … oder} : {either … or}
+181. {weder … noch} : {neither … nor}
+182. {meiner Meinung nach} : {in my opinion}
+183. {es kommt darauf an} : {it depends}
+184. {im Gegensatz zu} : {in contrast to}
+185. {zum Beispiel} : {for example}
+186. {auf jeden Fall} : {definitely/in any case}
+187. {vermutlich} : {presumably}
+188. {offensichtlich} : {obviously}
+189. {besonders} : {especially}
+190. {grundsätzlich} : {generally/in principle}
+191. {aus diesem Grund} : {for this reason}
+192. {im Allgemeinen} : {in general}
+193. {in der Regel} : {as a rule/usually}
+194. {von Zeit zu Zeit} : {from time to time}
+195. {unter anderem} : {among other things}
+196. {sowohl … als auch} : {both … and}
+197. {je … desto} : {the … the}
+198. {im Vergleich zu} : {in comparison with}
+199. {in Bezug auf} : {with regard to}
+200. {eine Rolle spielen} : {to play a role}
