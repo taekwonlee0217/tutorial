@@ -88,7 +88,7 @@
 
 ### Metathesis, cycloaddition, and polymerisation
 
-18. {Explain olefin metathesis and name two catalyst complexes.} : {A metal alkylidene reacts with an alkene by [2+2] cycloaddition to a metallacyclobutane, whose cycloreversion exchanges alkylidene fragments and regenerates a metal carbene, as catalysed for example by Grubbs II or Schrock's Mo alkylidene complex.}
+18. {Explain olefin metathesis and name two catalyst complexes.} : {A [^6]metal alkylidene reacts with an alkene by [2+2] cycloaddition to a metallacyclobutane, whose cycloreversion exchanges alkylidene fragments and regenerates a metal carbene, as catalysed for example by Grubbs II or Schrock's Mo alkylidene complex.}
 
 19. {How can Grubbs I and Grubbs II catalysts be prepared?} : {Grubbs I is made by converting RuCl2(PPh3)3 with phenyldiazomethane to a Ru benzylidene and replacing PPh3 with PCy3, whereas Grubbs II is obtained by replacing one PCy3 ligand of Grubbs I with an N-heterocyclic carbene generated from its imidazolinium salt.}
 
@@ -203,10 +203,12 @@
 ### Cofactor regeneration and industrial biocatalysis
 
 52. {What are coupled-enzyme and coupled-substrate approaches to cofactor regeneration?} : {A coupled-enzyme system uses a second enzyme and sacrificial substrate to recycle a cofactor such as NADH, whereas a coupled-substrate system lets the same enzyme oxidise or reduce a cheap co-substrate in the reverse sense to regenerate that cofactor.}
+	 - {Coupled enzyme} : {two enzymes—one makes the product and the other regenerates the cofactor.}
+	- Coupled substrate : {one enzyme—its desired and sacrificial reactions regenerate the cofactor together.}
 
 53. {What is the HFCS process, its substrates and products, enzyme, flow scheme, and immobilisation mode?} : {HFCS production converts starch -> glucose syrup -> an equilibrium mixture enriched to about 42% fructose using immobilised xylose isomerase in packed columns, after which chromatographic enrichment and blending give commercial 55% fructose syrup while the bound enzyme remains for continuous reuse.}
 
-54. {How does xylose isomerase convert glucose to fructose in HFCS?} : {At a dinuclear Mg2+ or Mn2+ active centre glucose binds and opens, metal-assisted proton transfers generate the proper alkoxide, a stereospecific hydride shift moves H from C2 to C1 while the carbonyl shifts from C1 to C2, and protonation plus ring closure releases fructose.}
+54. {How does [^7]xylose isomerase convert [^8]glucose to fructose in HFCS?} : {At a dinuclear Mg2+ or Mn2+ active centre glucose binds and opens, metal-assisted proton transfers generate the proper alkoxide, a stereospecific hydride shift moves H from C2 to C1 while the carbonyl shifts from C1 to C2, and protonation plus ring closure releases fructose.}
 
 [^1]: converts an **alkene** into an **aldehyde** by adding:
 
@@ -217,3 +219,9 @@
 [^4]: {the addition of a silicon–hydrogen bond (Si–H) across an unsaturated bond}
 
 [^5]: {Molecule that can become chiral with a single chemical transformation}
+
+[^6]: {M=CR2}
+
+[^7]: {simple sugar}
+
+[^8]: ![[Pasted image 20261001163717.png]]
