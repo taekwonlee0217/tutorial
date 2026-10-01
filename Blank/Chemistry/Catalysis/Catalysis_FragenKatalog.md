@@ -46,7 +46,7 @@
 
 25. {Explain the Rhone-Poulenc process for [^1]hydroformylation of an alkene such as propene.} : {The Rhone-Poulenc process uses a water-soluble Rh-TPPTS complex in an aqueous phase to hydroformylate propene with CO/H2 mainly to n-butanal, after which the organic product phase separates and the rhodium catalyst remains in water for recycle.}
 
-26. {Describe classical Ziegler-Natta catalysis with titanium compounds and aluminium alkyls.} : {AlR3 alkylates and reduces TiCl4 on MgCl2 to an active Ti-alkyl site, olefin coordinates and inserts repeatedly into the Ti-C bond by the Cossee-Arlman mechanism, and chain transfer terminates growth while the supported chiral environment controls stereochemistry.}
+26. {Describe classical Ziegler-Natta catalysis with titanium compounds and aluminium alkyls.} : {AlR3 alkylates and reduces TiCl4 on MgCl2 support to an active Ti-alkyl site, olefin coordinates and inserts repeatedly into the Ti-C bond by the [^3]Cossee-Arlman mechanism, and chain transfer terminates growth while the supported chiral environment controls stereochemistry.}
 
 27. {Sketch the SHOP cycle, explain generation of the active species, and name the product distribution.} : {In SHOP, a Ni(II) P,O-chelate precursor is converted to a Ni-H species, ethylene coordination and migratory insertion repeatedly extend a Ni-alkyl chain, beta-hydride elimination releases linear alpha-olefins and regenerates Ni-H, and the chain lengths follow a Schulz-Flory distribution.}
 
@@ -210,7 +210,6 @@
 
 [^1]: converts an **alkene** into an **aldehyde** by adding:
 
-- hydrogen (H₂)
-- carbon monoxide (CO)
-
 [^2]: {essential amino acid in a body}
+
+[^3]: {the coordination and repeated insertion of alkene monomers into a transition-metal–carbon bond, producing a growing polymer chain}
