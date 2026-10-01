@@ -60,7 +60,7 @@
 
 10. {Define the Tolman cone angle and position PF3, PH3, PPh3, and P(t-Bu)3 qualitatively by donor strength and steric demand.} : {The Tolman cone angle measures the ligand cone subtended at a metal 2.28 A from phosphorus, placing PH3 near 87 degrees with minimal steric demand, PF3 near 104 degrees as a weak sigma donor and strong pi acceptor, PPh3 near 145 degrees with intermediate donation and bulk, and P(t-Bu)3 near 182 degrees as a very strong, very bulky donor.}
 
-11. {Why can Pd[P(t-Bu)3]2 couple 4-chlorotoluene when Pd(PPh3)4 cannot, and why is the two-coordinate complex air-stable?} : {P(t-Bu)3 is much more electron-donating and bulky than PPh3, so its coordinatively unsaturated Pd(0) centre undergoes oxidative addition of the strong aryl-Cl bond readily, while the bulky ligands sterically shield the metal sufficiently to give unexpected air stability.}
+11. {Why can Pd[P(t-Bu)3]2 couple [^9]4-chlorotoluene when Pd(PPh3)4 cannot, and why is the two-coordinate complex air-stable?} : {P(t-Bu)3 is much more electron-donating and bulky than PPh3, so its coordinatively unsaturated Pd(0) centre undergoes oxidative addition of the strong aryl-Cl bond readily, while the bulky ligands sterically shield the metal sufficiently to give unexpected air stability.}
 
 12. {What catalyst and ligand properties enable mild activation and coupling of aryl-Cl bonds?} : {Mild aryl-Cl activation requires an electron-rich, low-coordinate palladium centre supported by strongly donating, bulky ligands such as trialkylphosphanes or N-heterocyclic carbenes that accelerate oxidative addition while leaving an open site and supporting the later coupling steps.}
 
@@ -70,9 +70,9 @@
 
 12. {Name at least four cross-couplings, their transmetallating nucleophiles, and required additives.} : {Examples are Stille with R-SnBu3, Negishi with R-ZnX, Suzuki with R-B(OH)2 plus base to form a more nucleophilic boronate, and Hiyama with R-SiR3 plus F<sup>-</sup> or base to generate a hypervalent silicate, while Kumada with R-MgX is a fifth option needing no activating additive.}
 
-13. {How are Pd(PPh3)4, dppf, and Josiphos prepared?} : {Pd(PPh3)4 is obtained by reducing a Pd(II) salt in excess PPh3, dppf by dilithiating ferrocene and trapping it with ClPPh2, and Josiphos by stereospecific phosphine substitution on a chiral 1-(dimethylamino)ethylferrocene followed by directed ortho lithiation and trapping with a second chlorophosphine.}
+13. {How are Pd(PPh3)4, [^11]dppf, and Josiphos prepared?} : {Pd(PPh3)4 is obtained by reducing a Pd(II) salt in excess PPh3, dppf by dilithiating [^10]ferrocene and trapping it with ClPPh2, and [^12]Josiphos by stereospecific phosphine substitution on a chiral 1-(dimethylamino)ethylferrocene followed by directed ortho lithiation and trapping with a second chlorophosphine.}
 
-14. {Give the Pd-catalysed carbonylative cyclisation mechanism to the cyclic lactam, including precatalyst activation, elementary steps, and Pd oxidation states.} : {PdCl2(PPh3)2 must first be reduced from Pd(II) to Pd(0), after which Pd(0) oxidatively adds the aryl-I bond to Pd(II), CO coordinates and inserts into the Pd-aryl bond to give an acyl-Pd(II) species, intramolecular amine capture with Et3N-assisted deprotonation closes the lactam, and product-forming reductive elimination regenerates Pd(0).}
+14. {Give the Pd-catalysed carbonylative cyclisation mechanism to the [^13]cyclic lactam, including precatalyst activation, elementary steps, and Pd oxidation states.} : {PdCl2(PPh3)2 must first be reduced from Pd(II) to Pd(0), after which Pd(0) oxidatively adds the aryl-I bond to Pd(II), CO coordinates and inserts into the Pd-aryl bond to give an acyl-Pd(II) species, intramolecular amine capture with Et3N-assisted deprotonation closes the lactam, and product-forming reductive elimination regenerates Pd(0).}
 
 ### Hydrogenation, hydroformylation, and [^4]hydrosilylation
 
@@ -225,3 +225,13 @@
 [^7]: {simple sugar}
 
 [^8]: ![[Pasted image 20261001163717.png]]
+
+[^9]: ![[Pasted image 20261001172614.png]]
+
+[^10]: ![[Pasted image 20261001173615.png]]
+
+[^11]: ![[Pasted image 20261001173645.png]]
+
+[^12]: ![[Pasted image 20261001173704.png]]
+
+[^13]: ![[Pasted image 20261001173741.png]]
