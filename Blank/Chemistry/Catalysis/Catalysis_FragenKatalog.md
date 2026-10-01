@@ -74,11 +74,11 @@
 
 14. {Give the Pd-catalysed carbonylative cyclisation mechanism to the cyclic lactam, including precatalyst activation, elementary steps, and Pd oxidation states.} : {PdCl2(PPh3)2 must first be reduced from Pd(II) to Pd(0), after which Pd(0) oxidatively adds the aryl-I bond to Pd(II), CO coordinates and inserts into the Pd-aryl bond to give an acyl-Pd(II) species, intramolecular amine capture with Et3N-assisted deprotonation closes the lactam, and product-forming reductive elimination regenerates Pd(0).}
 
-### Hydrogenation, hydroformylation, and hydrosilylation
+### Hydrogenation, hydroformylation, and [^4]hydrosilylation
 
 16. {Give the Wilkinson-catalyst cycle for olefin hydrogenation and name the elementary steps.} : {RhCl(PPh3)3 loses PPh3, oxidatively adds H2 to Rh(I) to form a Rh(III) dihydride, binds the olefin, inserts it into Rh-H to form a Rh-alkyl hydride, reductively eliminates the alkane, and reassociates phosphane.}
 
-17. {Explain a Curtin-Hammett diagram for asymmetric hydrogenation of a prochiral olefin with a chiral Rh complex.} : {Rapidly interconverting diastereomeric catalyst-substrate complexes lead through transition states of unequal free energy, so the pathway with the lower DeltaG<sup>double dagger</sup> forms the major enantiomer even if its precursor complex is less populated.}
+17. {Explain a Curtin-Hammett diagram for asymmetric hydrogenation of a [^5]prochiral olefin with a chiral Rh complex.} : {Rapidly interconverting diastereomeric catalyst-substrate complexes lead through transition states of unequal free energy, so the pathway with the lower DeltaG<sup>double dagger</sup> forms the major enantiomer even if its precursor complex is less populated.}
 
 18. {How is Wilkinson's catalyst prepared?} : {RhCl(PPh3)3 is prepared by refluxing RhCl3 hydrate with excess triphenylphosphine in ethanol, where phosphine reduces Rh(III) to Rh(I) and the burgundy complex crystallises.}
 
@@ -213,3 +213,7 @@
 [^2]: {essential amino acid in a body}
 
 [^3]: {the coordination and repeated insertion of alkene monomers into a transition-metal–carbon bond, producing a growing polymer chain}
+
+[^4]: {the addition of a silicon–hydrogen bond (Si–H) across an unsaturated bond}
+
+[^5]: {Molecule that can become chiral with a single chemical transformation}
