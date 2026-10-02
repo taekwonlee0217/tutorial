@@ -1,259 +1,191 @@
-## Topic 1: Language and translation
+## 1. Knowledge, truth, and philosophical method
 
-### A. Naming and communication
+### A. Experience and knowledge
 
-1. {Why does Benjamin discuss Adam naming the animals?} : {Naming represents humanity’s reception and expression of the language of things rather than merely attaching arbitrary labels.}
+1. {Why does Benjamin criticize the Enlightenment conception of experience in “On the Program of the Coming Philosophy”?} : {He argues that the historically limited experience underlying Kant’s philosophy cannot adequately accommodate the full range of experience, including religion, and therefore calls for renewed concepts of both experience and knowledge.}/{Philosophy needs a richer conception of experience.} — [_On the Program of the Coming Philosophy_](https://www.textlog.de/benjamin/essays/metaphysisch/programm-der-kommenden-philosophie)
     
-2. {How does Benjamin interpret the biblical Fall in relation to language?} : {The Fall marks language’s departure from immediate naming toward instrumental communication, abstraction, and judgment.}
+2. {Why does Benjamin invoke Hamann’s criticism of Kant’s neglect of language?} : {He treats language as fundamental to knowledge, suggesting that philosophy cannot explain knowing adequately while overlooking the linguistic medium in which thought takes shape.}/{Knowledge must be understood through language.} — [_On the Program of the Coming Philosophy_](https://www.textlog.de/benjamin/essays/metaphysisch/programm-der-kommenden-philosophie)
     
 
-Source: [On Language as Such and on the Language of Man](https://www.textlog.de/benjamin/essays/metaphysisch/sprache-ueberhaupt-und-sprache-des-menschen).
+### B. Constellations and origin
+
+3. {What does Benjamin’s comparison of ideas to constellations explain?} : {Just as stars form a constellation through their arrangement, phenomena become philosophically intelligible through their relations rather than through reduction to a single shared characteristic.}/{Truth emerges through meaningful arrangements of particulars.} — [_Origin of the German Trauerspiel_, epistemological prologue](https://www.kritiknetz.de/images/stories/texte/walter-benjamin-gesammelte-schriften-i.pdf)
+    
+4. {Why does Benjamin compare philosophical presentation to a mosaic?} : {A mosaic’s individual pieces contribute to a whole without losing their distinctness, illustrating a philosophical method that patiently assembles details instead of forcing them into seamless deduction.}/{Philosophy assembles truth from distinct fragments.} — [_Origin of the German Trauerspiel_, epistemological prologue](https://www.kritiknetz.de/images/stories/texte/walter-benjamin-gesammelte-schriften-i.pdf)
+    
+5. {What does Benjamin’s image of origin as a whirlpool in becoming mean?} : {Origin concerns how something emerges through a configuration of historical forces, including its earlier and later development, rather than merely identifying its first chronological appearance.}/{Origin is a historical formation, not simply a beginning.} — [_Origin of the German Trauerspiel_, epistemological prologue](https://www.kritiknetz.de/images/stories/texte/walter-benjamin-gesammelte-schriften-i.pdf)
+    
+
+## 2. Language, naming, translation, and resemblance
+
+### A. Language beyond communication
+
+6. {Why does Benjamin ask about the language of a lamp, a mountain, and a fox?} : {These examples extend language beyond human speech, proposing that things communicate their communicable spiritual being through their existence without necessarily using words.}/{Language includes the silent expression of things.} — [_On Language as Such and on the Language of Man_](https://www.textlog.de/benjamin/essays/metaphysisch/sprache-ueberhaupt-und-sprache-des-menschen)
+    
+7. {What does Adam’s naming of animals illustrate in Benjamin’s reading of Genesis?} : {Naming translates the mute language of things into human language, presenting knowledge as a receptive relationship with creation rather than arbitrary labeling.}/{Naming receives and translates the language of things.} — [_On Language as Such_](https://www.textlog.de/benjamin/essays/metaphysisch/sprache-ueberhaupt-und-sprache-des-menschen)
+    
+8. {How does Benjamin interpret the Fall in relation to language?} : {The Fall marks language’s departure from immediate naming toward judgment, abstraction, and the treatment of words as instruments for communicating something external to themselves.}/{The Fall transforms naming into instrumental language and judgment.} — [_On Language as Such_](https://www.textlog.de/benjamin/essays/metaphysisch/sprache-ueberhaupt-und-sprache-des-menschen)
+    
 
 ### B. Translation and pure language
 
-3. {Why does Benjamin compare the German word Brot with the French word pain?} : {Both signify bread, but their different ways of meaning show why translation involves more than exchanging equivalent words.}
+9. {Why does Benjamin compare the German word Brot with the French word pain?} : {Although both designate bread, their different ways of meaning show that translating involves relations between languages that cannot be reduced to matching objects or dictionary definitions.}/{Languages can mean the same thing differently.} — [_The Task of the Translator_](https://english.junputh.com/lounge/the-task-of-the-translator-by-walter-benjamin/)
     
-4. {Why does Benjamin compare an original and its translation to fragments of a broken vessel?} : {Their complementary differences can disclose their relationship to a greater whole that he calls pure language.}
+10. {What does Benjamin’s comparison of languages to fragments of a vessel explain?} : {Original and translation need not resemble one another, because their complementary differences can disclose their relationship to a greater linguistic whole that Benjamin calls pure language.}/{Translation reveals the complementary relationship between languages.} — [_The Task of the Translator_](https://english.junputh.com/lounge/the-task-of-the-translator-by-walter-benjamin/)
     
-
-Source: [The Task of the Translator, pp. 257–260](https://cominsitu.wordpress.com/wp-content/uploads/2018/06/walter-benjamin-selected-writings-volume-1-19131926-1.pdf).
-
-## Topic 2: Law, justice, and violence
-
-### A. Establishing and preserving law
-
-5. {What does Benjamin’s discussion of peace settlements after war reveal about violence?} : {Military victory can establish new legal boundaries, demonstrating the lawmaking function of violence.}
-    
-6. {Why does Benjamin find police power especially troubling?} : {Police combine enforcing existing law with effectively creating commands where legal authority is insufficiently defined.}
+11. {Why does Benjamin describe translation as belonging to a work’s afterlife?} : {Translation allows the original to continue developing historically as languages change, making the work’s survival a process of transformation rather than preservation without alteration.}/{Works survive through linguistic transformation.} — [_The Task of the Translator_](https://english.junputh.com/lounge/the-task-of-the-translator-by-walter-benjamin/)
     
 
-### B. Mythical violence and its alternatives
+### C. The mimetic faculty
 
-7. {Why does Benjamin discuss Apollo and Artemis killing Niobe’s children?} : {Their violence establishes divine power and leaves Niobe burdened with guilt, exemplifying mythical violence.}
+12. {What does a child pretending to be a windmill or train reveal?} : {Such play demonstrates the human capacity to produce and recognize similarities beyond imitation of other people, which Benjamin calls the mimetic faculty.}/{Human resemblance-making extends beyond copying people.} — [_On the Mimetic Faculty_](https://gettinginsidebenjaminshead.wordpress.com/2015/06/21/on-the-mimetic-faculty/)
     
-8. {Why does Benjamin contrast Niobe’s punishment with God’s judgment on Korah’s company?} : {He presents the contrast as one between mythical violence that establishes law and divine violence that destroys law’s authority.}
-    
-
-Source: [Critique of Violence](https://www.textlog.de/benjamin/essays/metaphysisch/zur-kritik-der-gewalt).
-
-## Topic 3: Allegory, mourning, and Baroque drama
-
-### A. Allegory and historical decay
-
-9. {Why are ruined buildings central to Benjamin’s account of allegory?} : {Ruins make history’s transience and destruction visible rather than presenting existence as a harmonious whole.}
-    
-10. {Why does Benjamin emphasize the skull in Baroque allegory?} : {The skull presents human history through mortality and suffering, interrupting the appearance of living beauty.}
+13. {Why does Benjamin connect ancient astrology with reading and writing?} : {He proposes that historically changing capacities for perceiving correspondences have migrated into language, where similarities can operate without obvious sensory resemblance.}/{Language preserves transformed capacities for recognizing correspondences.} — [_On the Mimetic Faculty_](https://gettinginsidebenjaminshead.wordpress.com/2015/06/21/on-the-mimetic-faculty/)
     
 
-### B. Melancholy and dramatic form
+## 3. Literary criticism, allegory, and mourning
 
-11. {Why does Benjamin examine Hamlet within his discussion of melancholy?} : {Hamlet’s brooding dramatizes the tension between inward reflection, a troubled world, and the difficulty of action.}
+### A. Criticism and artistic truth
+
+14. {What does Benjamin find significant in Friedrich Schlegel’s review of Goethe’s Wilhelm Meister?} : {He presents it as an exemplary Romantic criticism that unfolds the work’s own reflective possibilities while simultaneously demonstrating a theory of criticism.}/{Criticism can develop a work from within.} — [_The Concept of Criticism in German Romanticism_](https://www.textlog.de/benjamin/abhandlungen/begriff-kunstkritik-romantik/ii-das-kunstwerk)
     
-12. {Why does Benjamin distinguish Baroque mourning plays from ancient tragedy?} : {Baroque mourning plays organize suffering around historical sovereignty and creaturely mortality rather than the ancient tragic hero’s encounter with myth.}
-    
-
-Sources: [The Origin of German Tragic Drama, allegory](https://projekt-gutenberg.org/authors/walter-benjamin/books/ursprung-des-deutschen-trauerspiels/chapter/6/), [melancholy and Hamlet](https://projekt-gutenberg.org/authors/walter-benjamin/books/ursprung-des-deutschen-trauerspiels/chapter/5/).
-
-## Topic 4: Paris, commodities, and modern urban life
-
-### A. Shopping and spectacle
-
-13. {Why does Benjamin study Paris’s glass-roofed shopping arcades?} : {The arcades bring architecture, luxury merchandise, and urban fantasy together in a concentrated expression of commodity culture.}
-    
-14. {Why does Benjamin describe world exhibitions as places of commodity worship?} : {They transform merchandise into dazzling spectacles that obscure the social relations through which goods are produced.}
+15. {Why does Benjamin compare the commentator to a chemist and the critic to an alchemist?} : {The commentator investigates a work’s historical materials, while the critic seeks its enduring truth, which Benjamin compares to the living flame rather than the wood and ashes.}/{Commentary studies materials; criticism seeks their enduring truth.} — [_Goethe’s Elective Affinities_, Part I](https://www.textlog.de/benjamin/abhandlungen/goethe-wahlverwandtschaften/neu%202)
     
 
-### B. Fashion and the flâneur
+### B. Allegory and historical decay
 
-15. {What does Benjamin’s image of fashion coupling the living body with the inorganic world suggest?} : {Fashion subjects bodily life to the commodity’s changing forms and fascination with novelty.}
+16. {Why are ruins central to Benjamin’s account of allegory?} : {Ruins make historical transience visible, allowing allegory to express a world marked by fragmentation and decay instead of presenting meaning as harmonious completeness.}/{Allegory reveals history through fragmentation and decay.} — [_Origin of the German Trauerspiel_, “The Ruin”](https://www.textlog.de/benjamin/abhandlungen/ursprung-des-deutschen-trauerspiels/die-ruine)
     
-16. {Why does Benjamin place the flâneur between the street and the marketplace?} : {The wandering observer experiences the city through the crowd while becoming increasingly entangled in commercial life.}
-    
-
-Source: [Paris, Capital of the Nineteenth Century, 1939 exposé](https://fr.wikisource.org/wiki/Paris,_capitale_du_dix-neuvi%C3%A8me_si%C3%A8cle).
-
-## Topic 5: Baudelaire, shock, and modern experience
-
-### A. Crowds and encounters
-
-17. {How does Benjamin interpret the fleeting encounter in Baudelaire’s To a Passer-By?} : {The crowd makes the sudden romantic encounter possible while ensuring the stranger’s immediate disappearance.}
-    
-18. {Why does Benjamin discuss Poe’s The Man of the Crowd?} : {Its restless urban movement helps him examine how crowds impose new rhythms and demands on perception.}
+17. {What does the prominence of corpses in Baroque mourning plays reveal?} : {The corpse exposes the body as perishable historical material, supporting allegory’s presentation of life through mortality rather than an image of timeless wholeness.}/{The corpse makes mortality and historical transience visible.} — [_Origin of the German Trauerspiel_, “Allegory and Trauerspiel”](https://projekt-gutenberg.org/authors/walter-benjamin/books/ursprung-des-deutschen-trauerspiels/chapter/6/)
     
 
-### B. Mechanization and memory
+### C. Kafka, forgetting, and distorted life
 
-19. {Why does Benjamin compare a gambler’s repetitive gestures with a factory worker’s movements?} : {Both illustrate repeated operations in which each moment begins anew without accumulating fulfilling experience.}
+18. {Why does Benjamin connect Kafka’s Odradek with forgetting?} : {Odradek embodies the strange deformation of things caught in oblivion, showing how what has been forgotten persists rather than simply disappearing.}/{The forgotten returns in distorted forms.} — [_Franz Kafka_, “The Little Hunchback”](https://www.textlog.de/benjamin/essays/literarische/franz-kafka/das-bucklicht-maennlein)
     
-20. {What does Proust’s madeleine illustrate in Benjamin’s discussion of memory?} : {An unexpected sensory encounter can recover a past inaccessible to deliberate recollection.}
-    
-
-Source: [On Some Motifs in Baudelaire, in The Writer of Modern Life](https://www.scribd.com/document/251984463/Benjamin-Walter-Writer-of-Modern-Life-Essays-on-Charles-Baudelaire-Harvard-2006).
-
-## Topic 6: Childhood, imitation, and remembrance
-
-### A. Childhood objects
-
-21. {What does Benjamin learn from unrolling a stocking whose apparent contents and pocket disappear together?} : {The game teaches him that form and content can belong to the same unfolding object.}
-    
-22. {Why does Benjamin recall the frightening ringing of his childhood telephone?} : {The memory reveals how a new technology reorganized domestic space, authority, and sensory experience.}
+19. {What do Kafka’s assistants suggest about hope in Benjamin’s interpretation?} : {These unfinished and marginal creatures occupy an intermediate condition outside settled identities, making them figures through whom Benjamin considers possibilities unavailable to established authorities.}/{Hope appears among marginal and unfinished beings.} — [_Franz Kafka_, “Potemkin”](https://www.textlog.de/benjamin/essays/literarische/franz-kafka/potemkin)
     
 
-Sources: [Berlin Childhood around 1900, The Stocking](https://gesah.blogspot.com/2009/01/der-strumpf-walter-benjamin.html), [The Telephone](https://www.textlog.de/benjamin/kleine-prosa/berliner-kindheit/das-telephon).
+## 4. Art, photography, film, and technology
 
-### B. The mimetic faculty
+### A. Aura and ritual
 
-23. {Why does Benjamin mention children pretending to be windmills and trains?} : {Their play demonstrates a capacity to produce similarities extending beyond imitation of other people.}
+20. {What does a cathedral reproduced in a collector’s studio reveal about authenticity?} : {The reproduction makes the cathedral accessible elsewhere but cannot transfer its unique physical history and original place within tradition.}/{Reproduction separates access from unique historical presence.} — [_The Work of Art_, §II](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
     
-24. {Why does Benjamin connect ancient readings of stars with writing and language?} : {He proposes that older powers of recognizing correspondences were transformed and preserved within linguistic practices.}
-    
-
-Source: [On the Mimetic Faculty](https://gettinginsidebenjaminshead.wordpress.com/2015/06/21/on-the-mimetic-faculty/).
-
-## Topic 7: Storytelling, wisdom, and shared experience
-
-### A. Experience and its transmission
-
-25. {What does Benjamin infer from soldiers returning silently from the First World War?} : {The war undermined inherited experience rather than reliably producing wisdom that survivors could communicate.}
-    
-26. {Why does Benjamin pair the traveling seaman with the settled farmer?} : {Storytelling draws both on knowledge brought from afar and on traditions maintained within a community.}
+21. {Why does Benjamin mention religious statues visible only to priests?} : {Their importance depends on ritual existence rather than public display, illustrating cult value before exhibition becomes art’s dominant social function.}/{Cult value depends on ritual rather than visibility.} — [_The Work of Art_, §V](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
     
 
-### B. Stories and information
+### B. Photography and transformed perception
 
-27. {Why does Benjamin recount Psammenitus grieving for his servant after remaining unmoved by his children’s suffering?} : {The unexplained response allows the story to sustain multiple interpretations across generations.}
+22. {Why does Benjamin compare Atget’s deserted Paris photographs to crime-scene images?} : {Their emptiness invites examination as historical evidence, shifting photography away from personal remembrance toward interpretation with political significance.}/{Photography can become evidence requiring historical interpretation.} — [_The Work of Art_, §VI](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
     
-28. {Why does Benjamin compare enduring stories to seeds preserved in ancient pyramids?} : {Stories can retain their capacity to unfold meaning long after the circumstances of their telling have passed.}
-    
-
-Source: [The Storyteller, sections I–II and VII](https://sites.evergreen.edu/arunchandra/wp-content/uploads/sites/395/2018/07/storyteller.pdf).
-
-## Topic 8: Surrealism and revolutionary imagination
-
-### A. Everyday objects and profane illumination
-
-29. {Why does Benjamin emphasize Surrealism’s fascination with outdated fashions and aging buildings?} : {Obsolete things can reveal revolutionary energies concealed within ordinary bourgeois life.}
-    
-30. {What does Benjamin find philosophically significant in Breton’s Nadja?} : {Its encounters with people and urban objects help disclose extraordinary possibilities within everyday experience.}
+23. {What do close-ups and slow motion reveal about Benjamin’s optical unconscious?} : {Film exposes movements and structures normally inaccessible to ordinary perception, expanding awareness of material reality through technological intervention.}/{The camera reveals aspects of reality ordinary sight misses.} — [_The Work of Art_, §XIII](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
     
 
-### B. Intoxication and politics
+### C. Reception and political spectacle
 
-31. {Why does Benjamin compare the illumination of reading with investigations of telepathy?} : {Reading reveals unfamiliar powers within ordinary activity without requiring supernatural explanations.}
+24. {Why does Benjamin use architecture to explain reception in distraction?} : {People absorb buildings through habitual use as well as attentive looking, showing that perception can develop collectively through repeated practical encounters.}/{Habit and use also teach people how to perceive.} — [_The Work of Art_, §XV](https://jahsonic.com/WAAMR.html)
     
-32. {Why does Benjamin insist that revolutionary politics must go beyond intoxication?} : {The energies released by intoxication require disciplined political organization to become effective collective action.}
-    
-
-Source: [Surrealism: The Last Snapshot of the European Intelligentsia](https://www.textlog.de/benjamin/essays/literarische/der-surrealismus).
-
-## Topic 9: Photography, film, and perception
-
-### A. Photography and the optical unconscious
-
-33. {Why does Benjamin value Atget’s photographs of largely empty Paris streets?} : {They strip familiar urban scenes of conventional atmosphere and invite a searching examination of their details.}
-    
-34. {Why does Benjamin discuss photographs revealing unnoticed details of bodily movement?} : {Photography exposes an optical unconscious that ordinary conscious vision cannot readily perceive.}
+25. {Why does Benjamin discuss Marinetti’s celebration of war?} : {It exemplifies fascism’s transformation of technological destruction into aesthetic pleasure while leaving existing property relations intact.}/{Fascism makes domination and destruction into spectacle.} — [_The Work of Art_, Epilogue](https://jahsonic.com/WAAMR.html)
     
 
-Source: [Little History of Photography](https://www.textlog.de/benjamin/essays/literarische/kleine-geschichte-der-photographie).
+## 5. Capitalism, commodities, and the modern city
 
-### B. Film and reproduction
+### A. Commodity culture
 
-35. {What changes when a film actor performs before a camera rather than a theatre audience?} : {The performance undergoes technical testing and editing instead of unfolding through direct contact with spectators.}
+26. {Why does Benjamin study the covered shopping arcades of Paris?} : {Their architecture and merchandise concentrate nineteenth-century economic and cultural transformations, making everyday commercial spaces evidence for interpreting an entire historical epoch.}/{Commercial spaces reveal the structure of modern life.} — [_Paris, Capital of the Nineteenth Century_, 1939 exposé](https://fr.wikisource.org/wiki/Paris,_capitale_du_dix-neuvi%C3%A8me_si%C3%A8cle)
     
-36. {Why does Benjamin use a photographed cathedral to explain reproduction’s effects?} : {The image brings the cathedral to distant viewers while separating their encounter from its unique historical location.}
+27. {What do world exhibitions reveal about commodity fetishism?} : {They present commodities as objects of fascination and entertainment, obscuring the social labor and relations through which those objects acquire their apparent independence.}/{Commodity spectacle conceals the social relations behind objects.} — [_Paris, Capital of the Nineteenth Century_](https://fr.wikisource.org/wiki/Paris,_capitale_du_dix-neuvi%C3%A8me_si%C3%A8cle)
     
-
-Source: [The Work of Art in the Age of Mechanical Reproduction, sections II and VIII–IX](https://web.mit.edu/allanmc/www/benjamin.pdf).
-
-## Topic 10: Brecht, montage, and the author as producer
-
-### A. Epic theatre
-
-37. {Why does Benjamin imagine a stranger entering during a violent family argument?} : {The interruption exposes the situation as something spectators can examine rather than simply follow emotionally.}
-    
-38. {Why does Benjamin emphasize songs that interrupt Brecht’s dramatic action?} : {The interruptions break theatrical illusion and create opportunities to judge the social conditions being presented.}
+28. {Why does Benjamin analyze Haussmann’s reconstruction of Paris?} : {The new boulevards combine urban modernization with political control, illustrating how changes in the built environment can serve domination and obstruct insurrection.}/{Urban modernization can organize political control.} — [_Paris, Capital of the Nineteenth Century_](https://fr.wikisource.org/wiki/Paris,_capitale_du_dix-neuvi%C3%A8me_si%C3%A8cle)
     
 
-### B. Cultural production
+### B. Collecting and possession
 
-39. {Why does Benjamin criticize photographs that make poverty aesthetically appealing?} : {They can turn suffering into consumable pleasure while leaving its underlying conditions untouched.}
+29. {What does unpacking his own library teach Benjamin about collecting?} : {Each book recalls its acquisition and history, showing that collecting creates a relationship between objects, memory, and personal existence beyond their immediate usefulness.}/{Collected objects preserve histories and personal memories.} — [_Unpacking My Library_](https://www.tetragrammaton.com/article/unpacking-my-library-1931)
+
+### C. Capitalism as religion
+
+30. {Why does Benjamin describe capitalism as a cult without a weekly day of rest?} : {Its demands operate continuously, making economic life resemble permanent worship that intensifies guilt and indebtedness instead of offering release from them.}/{Capitalism becomes an unending cult of obligation.} — [_Capitalism as Religion_](https://cominsitu.wordpress.com/2018/06/08/capitalism-as-religion-benjamin-1921/)
     
-40. {Why does Benjamin praise writing that enables readers to become collaborators?} : {An author’s political contribution includes transforming cultural production so that audiences can participate in it.}
-    
-
-Source: [The Author as Producer](https://www.textlog.de/benjamin/essays/reden/der-autor-als-produzent).
-
-## Topic 11: Collecting, fragments, and memory
-
-### A. Collecting books
-
-41. {Why does unpacking his books release a flood of memories for Benjamin?} : {Each book preserves associations with its acquisition and the collector’s personal history.}
-    
-42. {Why does Benjamin recall inheriting his mother’s childhood albums?} : {Inheritance reveals collecting as a relationship of care and responsibility toward objects received from the past.}
+31. {Why does Benjamin emphasize the German word Schuld?} : {Its meanings of both debt and guilt allow him to connect economic indebtedness with the religious structure of a system that continually produces culpability.}/{Debt and guilt converge within capitalist obligation.} — [_Capitalism as Religion_](https://cominsitu.wordpress.com/2018/06/08/capitalism-as-religion-benjamin-1921/)
     
 
-Source: [Unpacking My Library](https://www.textlog.de/benjamin/kleine-prosa/denkbilder/packe-bibliothek-aus).
+## 6. Experience, memory, childhood, and storytelling
 
-### B. Remembering as excavation
+### A. Shock and modern experience
 
-43. {Why does Benjamin compare remembering with digging into buried cities?} : {Memory is a layered medium that requires repeated exploration rather than a storehouse of immediately available facts.}
+32. {Why does Benjamin compare navigating a crowd with operating a machine?} : {Both demand repeated responses to sudden stimuli, illustrating how modern life favors isolated shock experiences over experience integrated through memory and tradition.}/{Modern shocks can fragment accumulated experience.} — [_On Some Motifs in Baudelaire_](https://philpapers.org/rec/BENUEM)
     
-44. {Why must Benjamin’s remembered discoveries include the location where they were found?} : {A truthful account of memory must disclose the present circumstances of remembering as well as the recovered past.}
-    
-
-Source: [Excavation and Memory](https://www.textlog.de/benjamin/kleine-prosa/denkbilder/ausgraben).
-
-## Topic 12: Historical materialism and revolution
-
-### A. Progress and domination
-
-45. {What does Benjamin’s angel see in Paul Klee’s Angelus Novus?} : {The angel sees accumulating catastrophe where conventional history perceives successive events and progress.}
-    
-46. {Why does Benjamin describe cultural treasures carried in a victorious procession?} : {Their glory also conceals exploitation and the suffering of the defeated.}
+33. {What does Baudelaire’s poem about a passing woman reveal about metropolitan experience?} : {The crowd makes an intense encounter possible while immediately carrying its object away, joining attraction with irreversible loss in the modern city.}/{Urban encounters unite sudden fascination with disappearance.} — [_On Some Motifs in Baudelaire_](https://philpapers.org/rec/BENUEM)
     
 
-### B. Interrupting historical continuity
+### B. Memory and childhood
 
-47. {Why does Benjamin mention revolutionaries shooting at clocks during the July Revolution?} : {The act expresses a desire to interrupt the established continuity of historical time.}
+34. {Why does Benjamin discuss Proust’s memory awakened by tasting a madeleine?} : {The unexpected sensory encounter retrieves a past unavailable to deliberate recollection, demonstrating that memory exceeds conscious command.}/{Sensory chance can recover what deliberate remembering cannot.} — [_On Some Motifs in Baudelaire_, §II](https://madinfo.social/download/29/pdf/29.pdf)
     
-48. {Why does Benjamin discuss Robespierre’s invocation of ancient Rome?} : {Revolutionary action can reactivate a past moment within the urgent demands of the present.}
+35. {What does Benjamin’s childhood game of unfolding a rolled sock suggest about form and content?} : {The apparent pouch and its contents become one object when unfolded, providing an image through which he questions their assumed separateness.}/{Form and content can be inseparable aspects of one thing.} — [_The Image of Proust_](https://madinfo.social/download/29/pdf/29.pdf)
     
 
-Source: [On the Concept of History, theses VII, IX, XIV–XV](https://www.sfu.ca/~andrewf/CONCEPT2.html).
+### C. Storytelling and wisdom
 
-## Topic 13: Theology, messianic time, and redemption
+36. {Why does Benjamin describe First World War soldiers returning home silent?} : {Their inability to communicate what they underwent illustrates how catastrophic events can destroy the inherited frameworks through which experience becomes shared wisdom.}/{Extreme events can undermine communicable experience.} — [_The Storyteller_, §I](https://www.totuusradio.fi/wordpress/wp-content/uploads/2010/09/Benjamin-thestoryteller.pdf)
+    
+37. {What do the traveling seaman and settled farmer represent?} : {They supply complementary sources of storytelling through knowledge of distant places and preservation of local traditions.}/{Stories combine distant encounters with inherited local memory.} — [_The Storyteller_, §II](https://www.totuusradio.fi/wordpress/wp-content/uploads/2010/09/Benjamin-thestoryteller.pdf)
+    
+38. {Why does Benjamin retell Herodotus’s story of Psammenitus mourning for his servant?} : {Its unexplained reaction invites interpretations across generations, demonstrating how stories preserve their force without exhausting themselves in immediate explanation.}/{Stories endure by leaving room for interpretation.} — [_The Storyteller_, §VII](https://numerocinqmagazine.com/wp-content/uploads/2014/11/The-Storyteller-Walter-Benjamin.pdf)
+    
 
-### A. Theology and materialism
+## 7. Law, violence, justice, and revolution
 
-49. {Why does Benjamin begin his history theses with a chess puppet guided by a concealed expert?} : {The image presents historical materialism as drawing on theology’s hidden assistance.}
+### A. Law’s relationship to force
 
-### B. Responsibility toward the past
+39. {Why does Benjamin examine military conscription?} : {Conscription exemplifies violence used to preserve a legal order, showing that institutional legality does not eliminate the question of coercion.}/{Law maintains itself through organized force.} — [_Critique of Violence_](https://www.columbia.edu/cu/english/Critique_of_Violence.pdf)
+    
+40. {What does Benjamin find troubling about police power?} : {Police combine enforcing existing law with effectively creating commands where legal limits are unclear, blurring the distinction between law-preserving and law-making violence.}/{Police power blurs enforcement and the creation of law.} — [_Critique of Violence_](https://www.columbia.edu/cu/english/Critique_of_Violence.pdf)
+    
 
-50. {What does Benjamin mean when he says earlier generations have a claim on our weak messianic power?} : {The present bears a limited responsibility to answer the unfulfilled hopes and injustices of the past.}
+### B. Action beyond legal coercion
 
-Source: [On the Concept of History, theses I–II](https://www.sfu.ca/~andrewf/CONCEPT2.html).
+41. {Why does Benjamin distinguish the political general strike from the proletarian general strike?} : {Following Sorel, he contrasts bargaining for changes within state power with withdrawing labor to abolish the coercive order itself, interpreting the latter as a pure means.}/{A strike can bargain within power or challenge its structure.} — [_Critique of Violence_](https://www.columbia.edu/cu/english/Critique_of_Violence.pdf)
+    
+42. {Why does Benjamin contrast Niobe’s punishment with the biblical judgment on Korah?} : {He uses them to distinguish mythical violence that establishes guilt and law from divine violence that destroys law, while acknowledging the difficulty of identifying the latter in particular cases.}/{Mythical violence establishes law; divine violence breaks its authority.} — [_Critique of Violence_](https://www.columbia.edu/cu/english/Critique_of_Violence.pdf)
+    
 
-## Topic 14: Knowledge, truth, and philosophical presentation
+## 8. Political art, surrealism, and collective action
 
-### A. Constellations
+### A. The author’s role in production
 
-51. {Why does Benjamin compare ideas with constellations and phenomena with stars?} : {Ideas make phenomena intelligible through their relationships while preserving the distinctness of individual elements.}
+43. {Why does Benjamin discuss Brecht’s epic theater in “The Author as Producer”?} : {Its interruptions encourage examination of social situations, illustrating how politically effective art changes its methods of production and reception rather than merely expressing correct opinions.}/{Political art changes how audiences encounter social reality.} — [_The Author as Producer_](https://monoskop.org/images/9/93/Benjamin_Walter_1934_1999_The_Author_as_Producer.pdf)
+    
+44. {Why does Benjamin criticize photographs that make poverty aesthetically attractive?} : {Such images can turn suffering into consumable pleasure without changing the apparatus that produces and circulates them, exposing the limits of sympathetic subject matter alone.}/{Depicting suffering beautifully does not necessarily challenge its causes.} — [_The Author as Producer_](https://monoskop.org/images/9/93/Benjamin_Walter_1934_1999_The_Author_as_Producer.pdf)
+    
 
-### B. Fragments and method
+### B. Surrealism and profane illumination
 
-52. {Why does Benjamin compare philosophical presentation with a mosaic?} : {Carefully arranged fragments can present truth through their configuration rather than through an uninterrupted chain of deductions.}
+45. {Why does Benjamin emphasize obsolete objects and unfashionable interiors in surrealism?} : {These remnants can disclose revolutionary energies concealed within ordinary material life, disrupting the assumption that novelty and progress alone carry emancipatory possibilities.}/{Discarded things can reveal suppressed historical possibilities.} — [_Surrealism_](https://monoskop.org/images/a/a0/Benjamin_Walter_1929_1978_Surrealism_The_Last_Snapshot_of_the_European_Intelligentsia.pdf)
+    
+46. {Why does Benjamin place readers and thinkers alongside dreamers and intoxicated people?} : {The comparison presents profane illumination as a transformative, materially grounded experience available through everyday practices rather than confined to religious revelation or drugs.}/{Ordinary practices can transform perception without religious revelation.} — [_Surrealism_](https://monoskop.org/images/a/a0/Benjamin_Walter_1929_1978_Surrealism_The_Last_Snapshot_of_the_European_Intelligentsia.pdf)
+    
 
-Source: [The Origin of German Tragic Drama, epistemological prologue](https://projekt-gutenberg.org/authors/walter-benjamin/books/ursprung-des-deutschen-trauerspiels/chapter/2/).
+## 9. History, remembrance, messianism, and redemption
 
-## Topic 15: Capitalism as religion
+### A. History against the victors
 
-### A. Permanent worship
+47. {What does Benjamin’s chess automaton with a hidden operator suggest?} : {The allegory depicts historical materialism relying on concealed theology, challenging the idea that emancipatory historical understanding functions as an automatic mechanism.}/{Historical materialism needs more than mechanical explanation.} — [_On the Concept of History_, Thesis I](https://www.marxists.org/reference/archive/benjamin/1940/history.htm)
+    
+48. {Why does Benjamin describe cultural treasures carried in a victorious procession?} : {Their transmission conceals the suffering and anonymous labor behind them, requiring historians to examine cultural achievement from the position of the defeated.}/{Culture carries the history of oppression within it.} — [_On the Concept of History_, Thesis VII](https://www.marxists.org/reference/archive/benjamin/1940/history.htm)
+    
 
-53. {Why does Benjamin describe capitalism as a cult without ordinary weekdays?} : {Its demands remain continuous, leaving no genuine interval outside the activity of worship.}
+### B. Progress and interruption
 
-### B. Debt and guilt
+49. {How does Benjamin’s reading of Klee’s Angelus Novus challenge progress?} : {The angel sees accumulating devastation while a storm drives him forward, exposing catastrophe within what conventional historical narratives celebrate as advancement.}/{Progress can accumulate destruction rather than repair it.} — [_On the Concept of History_, Thesis IX](https://www.marxists.org/reference/archive/benjamin/1940/history.htm)
+    
+50. {Why does Benjamin mention Robespierre’s reference to ancient Rome?} : {Revolutionary action can reactivate a charged past within the present, illustrating now-time as an interruption of homogeneous chronological succession.}/{Revolution makes a past moment newly active in the present.} — [_On the Concept of History_, Thesis XIV](https://www.marxists.org/reference/archive/benjamin/1940/history.htm)
+    
 
-54. {Why does Benjamin emphasize the German word Schuld, which can mean both debt and guilt?} : {Its ambiguity helps him describe capitalism as a system that intensifies indebtedness and guilt rather than offering release.}
+### C. Messianism and worldly happiness
 
-Source: [Capitalism as Religion](https://cominsitu.wordpress.com/2018/06/08/capitalism-as-religion-benjamin-1921/).
+51. {Why does Benjamin picture worldly happiness and messianic intensity as arrows pointing in different directions?} : {The image distinguishes political pursuit of happiness from redemption while suggesting an indirect relationship between them, rejecting the construction of politics as a theocratic program.}/{Politics pursues happiness without manufacturing redemption.} — [_Theological-Political Fragment_](https://www.textlog.de/benjamin/essays/metaphysisch/fragment/theologisch-politisches-fragment)
+    
+52. {What does Benjamin mean when he says that God’s kingdom cannot be made history’s goal?} : {Redemption completes historical happening without becoming an objective that historical institutions can directly produce, preventing messianism from serving as a guaranteed program of progress.}/{Redemption is not a political outcome history can guarantee.} — [_Theological-Political Fragment_](https://www.textlog.de/benjamin/essays/metaphysisch/fragment/theologisch-politisches-fragment)
