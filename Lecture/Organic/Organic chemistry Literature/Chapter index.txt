@@ -1,0 +1,46 @@
+Chapter	Title	Source PDF pages	Page count	Filename
+01	1 What is organic chemistry?	28-41	14	01 - What is organic chemistry-.pdf
+02	2 Organic structures	42-69	28	02 - Organic structures.pdf
+03	3 Determining organic structures	70-106	37	03 - Determining organic structures.pdf
+04	4 Structure of molecules	107-133	27	04 - Structure of molecules.pdf
+05	5 Organic reactions	134-151	18	05 - Organic reactions.pdf
+06	6 Nucleophilic addition to the carbonyl group	152-167	16	06 - Nucleophilic addition to the carbonyl group.pdf
+07	7 Delocalization and conjugation	168-189	22	07 - Delocalization and conjugation.pdf
+08	8 Acidity, basicity, and pKa	190-208	19	08 - Acidity, basicity, and pKa.pdf
+09	9 Using organometallic reagents to make C-C bonds	209-223	15	09 - Using organometallic reagents to make C-C bonds.pdf
+10	10 Nucleophilic substitution at the carbonyl group	224-248	25	10 - Nucleophilic substitution at the carbonyl group.pdf
+11	11 Nucleophilic substitution at C=O with loss of carbonyl oxygen	249-266	18	11 - Nucleophilic substitution at C=O with loss of carbonyl oxygen.pdf
+12	12 Equilibria, rates, and mechanisms	267-295	29	12 - Equilibria, rates, and mechanisms.pdf
+13	13 1H NMR: Proton nuclear magnetic resonance	296-328	33	13 - 1H NMR- Proton nuclear magnetic resonance.pdf
+14	14 Stereochemistry	329-354	26	14 - Stereochemistry.pdf
+15	15 Nucleophilic substitution at saturated carbon	355-386	32	15 - Nucleophilic substitution at saturated carbon.pdf
+16	16 Conformational analysis	387-408	22	16 - Conformational analysis.pdf
+17	17 Elimination reactions	409-433	25	17 - Elimination reactions.pdf
+18	18 Review of spectroscopic methods	434-453	20	18 - Review of spectroscopic methods.pdf
+19	19 Electrophilic addition to alkenes	454-475	22	19 - Electrophilic addition to alkenes.pdf
+20	20 Formation and reactions of enols and enolates	476-497	22	20 - Formation and reactions of enols and enolates.pdf
+21	21 Electrophilic aromatic substitution	498-524	27	21 - Electrophilic aromatic substitution.pdf
+22	22 Conjugate addition and nucleophilic aromatic substitution	525-554	30	22 - Conjugate addition and nucleophilic aromatic substitution.pdf
+23	23 Chemoselectivity and protecting groups	555-588	34	23 - Chemoselectivity and protecting groups.pdf
+24	24 Regioselectivity	589-610	22	24 - Regioselectivity.pdf
+25	25 Alkylation of enolates	611-640	30	25 - Alkylation of enolates.pdf
+26	26 Reactions of enolates with carbonyl compounds: the aldol and Claisen reactions	641-682	42	26 - Reactions of enolates with carbonyl compounds- the aldol and Claisen reactions.pdf
+27	27 Sulfur, silicon, and phosphorus in organic chemistry	683-720	38	27 - Sulfur, silicon, and phosphorus in organic chemistry.pdf
+28	28 Retrosynthetic analysis	721-749	29	28 - Retrosynthetic analysis.pdf
+29	29 Aromatic heterocycles 1: reactions	750-783	34	29 - Aromatic heterocycles 1- reactions.pdf
+30	30 Aromatic heterocycles 2: synthesis	784-815	32	30 - Aromatic heterocycles 2- synthesis.pdf
+31	31 Saturated heterocycles and stereoelectronics	816-851	36	31 - Saturated heterocycles and stereoelectronics.pdf
+32	32 Stereoselectivity in cyclic molecules	852-878	27	32 - Stereoselectivity in cyclic molecules.pdf
+33	33 Diastereoselectivity	879-903	25	33 - Diastereoselectivity.pdf
+34	34 Pericyclic reactions 1: cycloadditions	904-935	32	34 - Pericyclic reactions 1- cycloadditions.pdf
+35	35 Pericyclic reactions 2: sigmatropic and electrocyclic reactions	936-957	22	35 - Pericyclic reactions 2- sigmatropic and electrocyclic reactions.pdf
+36	36 Participation, rearrangement, and fragmentation	958-996	39	36 - Participation, rearrangement, and fragmentation.pdf
+37	37 Radical reactions	997-1029	33	37 - Radical reactions.pdf
+38	38 Synthesis and reactions of carbenes	1030-1055	26	38 - Synthesis and reactions of carbenes.pdf
+39	39 Determining reaction mechanisms	1056-1095	40	39 - Determining reaction mechanisms.pdf
+40	40 Organometallic chemistry	1096-1128	33	40 - Organometallic chemistry.pdf
+41	41 Asymmetric synthesis	1129-1160	32	41 - Asymmetric synthesis.pdf
+42	42 Organic chemistry of life	1161-1195	35	42 - Organic chemistry of life.pdf
+43	43 Organic chemistry today	1196-1208	13	43 - Organic chemistry today.pdf
+
+The front matter and back matter are not included in the chapter PDFs. Original chapter pages and printed page numbers are preserved.
