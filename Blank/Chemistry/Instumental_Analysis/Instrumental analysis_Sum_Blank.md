@@ -44,7 +44,7 @@
     
 18. {How does column length affect efficiency?} : {Increasing column length generally increases the number of theoretical plates, although it also increases analysis time and, in liquid chromatography, pressure requirements.}/{column length}, {theoretical plates}, {analysis time}, {pressure requirements}
     
-19. {What is the van Deemter equation?} : {The van Deemter equation is H = A + B/u + Cu, where u is mobile-phase linear velocity and the terms represent eddy dispersion, longitudinal diffusion, and resistance to mass transfer.}/{H = A + B/u + Cu}, {eddy dispersion}, {longitudinal diffusion}, {resistance to mass transfer}
+19. {What is the van Deemter equation?} : {The van Deemter equation is H = A + B/u + Cu, where u is mobile-phase linear velocity and the terms represent eddy dispersion, [^1]longitudinal diffusion, and resistance to mass transfer.}/{H = A + B/u + Cu}, {eddy dispersion}, {longitudinal diffusion}, {resistance to mass transfer}
     
 20. {What causes eddy dispersion, represented by A?} : {Eddy dispersion results from analyte molecules following different paths through a packed column, with its magnitude influenced by packing uniformity and particle size.}/{different paths}, {packed column}, {packing uniformity}, {particle size}
     
@@ -514,3 +514,5 @@
 208. {What is electroblotting?} : {Electroblotting uses an electric field to transfer separated proteins or nucleic acids from a gel onto a membrane for further analysis.}/{electroblotting}, {electric field}, {proteins or nucleic acids}, {membrane}
     
 209. {Why are analytes transferred to a membrane after electrophoresis?} : {A membrane provides an accessible support for detecting selected analytes with probes or antibodies and carrying out subsequent analysis.}/{membrane}, {selected analytes}, {probes}, {antibodies}
+
+[^1]: 종단적
