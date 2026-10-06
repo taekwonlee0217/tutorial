@@ -1,9 +1,1 @@
-왜 나는 항상 유튜브를 틀어 놓는가
-어느 순간 인식하면 인스타 숏츠나 유투브를 감상하고 있음(내가 desire하지 않았던 것)
-
-1. 그것이 편해서? 영상은 알아서 흘러나오니까
-2. 눈에 아주 조그마한 적당한 피로감을 주면서 주어진 영상을 바라보게 됨
-3. 외로움? 누군가 내 곁에 있다는(내 옆에서 말해해준다는)
-	1. 불안함은 나를 익숙한 곳으로 이끈다.
-
-**외로움, 불안함**
+changing selectivity : changing stationary phase, solvent composition analyte ionization can alter relative retention
