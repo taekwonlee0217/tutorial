@@ -216,7 +216,7 @@
 
 89. {What is the purpose of infrared spectroscopy?} : {Infrared spectroscopy measures absorption associated with molecular vibrations and provides information about functional groups and molecular structure.}/{absorption}, {molecular vibrations}, {functional groups}, {molecular structure}
     
-90. {How does a dispersive infrared instrument operate?} : {A dispersive infrared instrument uses a monochromator to select wavelengths sequentially and measures the sample response across the spectrum.}/{monochromator}, {wavelengths sequentially}, {sample response}
+90. {How does a [^2]dispersive infrared instrument operate?} : {A dispersive infrared instrument uses a monochromator to select wavelengths sequentially and measures the sample response across the spectrum.}/{monochromator}, {wavelengths sequentially}, {sample response}
     
 91. {Why is a background or reference measurement required?} : {A background or reference measurement accounts for the source, instrument, atmosphere, and other contributions so that the sample’s absorption can be interpreted more accurately.}/{background}, {reference measurement}, {atmosphere}, {sample’s absorption}
     
@@ -516,3 +516,5 @@
 209. {Why are analytes transferred to a membrane after electrophoresis?} : {A membrane provides an accessible support for detecting selected analytes with probes or antibodies and carrying out subsequent analysis.}/{membrane}, {selected analytes}, {probes}, {antibodies}
 
 [^1]: 종단적
+
+[^2]: 분산성의
