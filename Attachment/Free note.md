@@ -1,1 +1,1 @@
-changing selectivity : changing stationary phase, solvent composition analyte ionization can alter relative retention
+chromatography separates components

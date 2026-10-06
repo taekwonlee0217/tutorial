@@ -10,7 +10,7 @@
     
 4. {What is the mobile-phase hold-up time, tₘ?} : {The mobile-phase hold-up time is the time required for an unretained substance to travel through the chromatographic system.}
     
-5. {What is adjusted retention time, tᵣ′?} : {Adjusted retention time is the analyte’s retention time minus the mobile-phase hold-up time, expressed as tᵣ′ = tᵣ − tₘ.}
+5. {What is adjusted retention time, tᵣ′?} : {Adjusted retention time is the [^1]analyte’s retention time minus the mobile-phase hold-up time, expressed as tᵣ′ = tᵣ − tₘ.}
     
 6. {How is the retention factor, k, calculated?} : {The retention factor is calculated as k = (tᵣ − tₘ)/tₘ = tᵣ′/tₘ and describes analyte retention relative to an unretained substance.}
     
@@ -514,3 +514,5 @@
 208. {What is electroblotting?} : {Electroblotting uses an electric field to transfer separated proteins or nucleic acids from a gel onto a membrane for further analysis.}
     
 209. {Why are analytes transferred to a membrane after electrophoresis?} : {A membrane provides an accessible support for detecting selected analytes with probes or antibodies and carrying out subsequent analysis.}
+
+[^1]: 분석 대상 물질
