@@ -8,7 +8,7 @@
     
 3. {What is retention time, tᵣ?} : {Retention time is the time between sample injection and the appearance of an analyte’s peak maximum at the detector.}/{sample injection}, {peak maximum}, {detector}
     
-4. {What is the mobile-phase hold-up time, tₘ?} : {The mobile-phase hold-up time is the time required for an unretained substance to travel through the chromatographic system.}/{hold-up time}, {unretained substance}, {chromatographic system}
+4. {What is the mobile-phase hold-up time, tₘ?} : {The mobile-phase hold-up time is the time required for an [^6]unretained substance to travel through the chromatographic system.}/{hold-up time}, {unretained substance}, {chromatographic system}
     
 5. {What is adjusted retention time, tᵣ′?} : {Adjusted retention time is the analyte’s retention time minus the mobile-phase hold-up time, expressed as tᵣ′ = tᵣ − tₘ.}/{adjusted retention time}, {hold-up time}, {tᵣ′ = tᵣ − tₘ}
     
@@ -20,7 +20,7 @@
     
 9. {What is chromatographic selectivity, α?} : {Selectivity is α = k₂/k₁ for two analytes with k₂ > k₁ and describes how differently the chromatographic system retains them.}/{selectivity}, {α = k₂/k₁}, {k₂ > k₁}
     
-10. {What are retention volume and retention volume factor?} : {Retention volume is the mobile-phase volume required to elute an analyte, and the corresponding volume-based retention factor is calculated analogously to the time-based retention factor.}/{retention volume}, {mobile-phase volume}, {volume-based retention factor}
+10. {What are retention volume and retention volume factor?} : {Retention volume is the mobile-phase volume required to [^7]elute an analyte, and the corresponding volume-based retention factor is calculated analogously to the time-based retention factor.}/{retention volume}, {mobile-phase volume}, {volume-based retention factor}
     
 
 ### 1.2 Thin-layer chromatography
@@ -113,7 +113,7 @@
     
 47. {Which gas-chromatography detectors are listed in the summary?} : {The summary lists the flame ionisation detector, thermal conductivity detector, mass spectrometer, and flame photometric detector.}/{flame ionisation detector}, {thermal conductivity detector}, {mass spectrometer}, {flame photometric detector}
     
-48. {How does a flame ionisation detector, FID, work?} : {An FID burns column effluent in a hydrogen–air flame and measures the current produced by ions formed from suitable compounds, especially many organic substances.}/{FID}, {hydrogen–air flame}, {current}, {organic substances}
+48. {How does a flame ionisation detector, FID, work?} : {An FID burns column [^10]effluent in a hydrogen–air flame and measures the current produced by ions formed from suitable compounds, especially many organic substances.}/{FID}, {hydrogen–air flame}, {current}, {organic substances}
     
 49. {How does a thermal conductivity detector, TCD, work?} : {A TCD detects changes in the thermal conductivity of the gas leaving the column relative to the carrier gas, providing a response to many compounds.}/{TCD}, {thermal conductivity}, {carrier gas}
     
@@ -130,9 +130,9 @@
     
 53. {Why is the HPLC mobile phase degassed?} : {Degassing removes dissolved gases that could form bubbles, disrupt pumping, or produce unstable detector responses.}/{degassing}, {dissolved gases}, {bubbles}, {unstable detector responses}
     
-54. {How can HPLC solvents be degassed?} : {Solvents can be degassed using a vacuum-operated gas-permeable membrane system or by helium purging where appropriate.}/{vacuum-operated}, {gas-permeable membrane}, {helium purging}
+54. {How can HPLC solvents be degassed?} : {Solvents can be degassed using a vacuum-operated gas-permeable membrane system or by helium [^8]purging where appropriate.}/{vacuum-operated}, {gas-permeable membrane}, {helium purging}
     
-55. {How do reciprocating HPLC pumps provide relatively continuous flow?} : {Reciprocating pumps use coordinated piston strokes so that solvent delivery from one pumping chamber compensates for filling or changing flow from another.}/{reciprocating pumps}, {coordinated piston strokes}, {solvent delivery}
+55. {How do [^9]reciprocating HPLC pumps provide relatively continuous flow?} : {Reciprocating pumps use coordinated piston strokes so that solvent delivery from one pumping chamber compensates for filling or changing flow from another.}/{reciprocating pumps}, {coordinated piston strokes}, {solvent delivery}
     
 56. {What is low-pressure gradient mixing?} : {Low-pressure gradient mixing combines solvents in selected proportions before they enter a high-pressure pump.}/{low-pressure gradient mixing}, {selected proportions}, {high-pressure pump}
     
@@ -284,7 +284,7 @@
 
 ### 5.1 Scattering and instrumentation
 
-117. {What is the basic principle of Raman spectroscopy?} : {Raman spectroscopy measures inelastically scattered light whose energy differs from that of the incident light because energy has been exchanged with molecular vibrations.}/{inelastically scattered light}, {incident light}, {energy}, {molecular vibrations}
+117. {What is the basic principle of Raman spectroscopy?} : {Raman spectroscopy measures inelastically scattered light whose energy differs from that of the [^3]incident light because energy has been exchanged with molecular vibrations.}/{inelastically scattered light}, {incident light}, {energy}, {molecular vibrations}
     
 118. {What is Rayleigh scattering?} : {Rayleigh scattering is elastic scattering in which the scattered light has the same energy and frequency as the incident light.}/{Rayleigh scattering}, {elastic scattering}, {same energy and frequency}
     
@@ -292,7 +292,7 @@
     
 120. {What is anti-Stokes Raman scattering?} : {Anti-Stokes scattering occurs when an initially excited molecule loses vibrational energy and the scattered photon has higher energy and a shorter wavelength than the incident photon.}/{anti-Stokes scattering}, {loses vibrational energy}, {higher energy}, {shorter wavelength}
     
-121. {What is a virtual state in the Raman-scattering diagram?} : {A virtual state represents the transient light-induced interaction used to describe scattering rather than a normally occupied molecular energy level.}/{virtual state}, {transient light-induced interaction}, {scattering}
+121. {What is a virtual state in the Raman-scattering diagram?} : {A virtual state represents the transient light-induced interaction used to describe scattering rather than a normally occupied molecular energy level.}/{virtual state}, {[^4]transient light-induced interaction}, {scattering}
     
 122. {What components are shown in the Raman instrument?} : {The Raman instrument includes a laser, sample illumination and collection optics, filtering or wavelength-selection components, and a detector.}/{laser}, {collection optics}, {wavelength-selection components}, {detector}
     
@@ -439,7 +439,7 @@
 
 ### 8.1 Capillary zone electrophoresis
 
-178. {What is the principle of capillary zone electrophoresis, CZE?} : {CZE separates dissolved analytes in a narrow capillary according to differences in electrophoretic mobility under an applied electric field.}/{CZE}, {narrow capillary}, {electrophoretic mobility}, {electric field}
+178. {What is the principle of capillary zone electrophoresis, CZE?} : {CZE separates dissolved analytes in a narrow capillary according to differences in electrophoretic mobility under an applied electric field.}/{CZE}, {narrow capillary}, {[^5]electrophoretic mobility}, {electric field}
     
 179. {How can a sample be introduced into a CZE capillary?} : {A sample can be loaded electrokinetically by applying a voltage that drives charged analytes into the capillary.}/{electrokinetically}, {voltage}, {charged analytes}, {capillary}
     
@@ -518,3 +518,19 @@
 [^1]: 종단적
 
 [^2]: 분산성의
+
+[^3]: 입사광
+
+[^4]: 과도 현상
+
+[^5]: relating to the movement of charged particles through a liquid or gel under an electric field.
+
+[^6]: 유지되지 않은
+
+[^7]: remove by washing with a solvent
+
+[^8]: 배출, 제거
+
+[^9]: 보답하다, 화ㅏㅂ하다
+
+[^10]: 유출수, 방류수
