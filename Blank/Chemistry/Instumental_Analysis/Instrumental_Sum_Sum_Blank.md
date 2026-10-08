@@ -261,7 +261,7 @@
 
 94. {How does electroosmotic flow arise in a silica capillary?} : {Deprotonated silanol groups create a negative surface that attracts cations, and their movement within the electrical double layer carries the surrounding liquid towards the cathode.}/{deprotonated silanol groups}, {negative surface}, {cations}, {electrical double layer}, {cathode}
     
-95. {How does electroosmotic flow affect migration, and how can it be controlled?} : {Observed migration combines electrophoretic motion with electroosmotic bulk flow, which can be modified through pH, ionic strength, organic modifiers, or capillary coatings.}/{electrophoretic motion}, {electroosmotic bulk flow}, {pH}, {ionic strength}, {capillary coatings}
+95. {How does [^1]electroosmotic flow affect migration, and how can it be controlled?} : {Observed migration combines electrophoretic motion with electroosmotic bulk flow, which can be modified through pH, ionic strength, organic modifiers, or capillary coatings.}/{electrophoretic motion}, {electroosmotic bulk flow}, {pH}, {ionic strength}, {capillary coatings}
     
 96. {Why does electroosmotic flow produce less flow-induced broadening than pressure-driven flow?} : {Electroosmotic flow has an approximately plug-shaped velocity profile, whereas pressure-driven flow has a parabolic profile that causes greater differences in travel time across the capillary.}/{plug-shaped velocity profile}, {pressure-driven flow}, {parabolic profile}, {travel time}
     
@@ -278,3 +278,5 @@
 99. {How do isoelectric focusing and two-dimensional protein electrophoresis work?} : {Isoelectric focusing separates proteins along a pH gradient until they reach their isoelectric point of zero net charge, and two-dimensional electrophoresis follows this with SDS–PAGE separation by molecular mass.}/{isoelectric focusing}, {pH gradient}, {isoelectric point}, {zero net charge}, {SDS–PAGE}, {molecular mass}
     
 100. {What is electroblotting, and why is it performed?} : {Electroblotting uses an electric field to transfer proteins or nucleic acids from a gel onto a membrane for subsequent detection with antibodies or probes.}/{electroblotting}, {electric field}, {proteins or nucleic acids}, {membrane}, {antibodies}, {probes}
+
+[^1]: 전자삼투압의
