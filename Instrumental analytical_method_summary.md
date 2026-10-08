@@ -9,7 +9,7 @@
 | **Reversed-phase chromatography**                 | A {nonpolar stationary phase} generally retains more {hydrophobic substances} more strongly.                                        |
 | **HILIC**                                         | A {polar stationary phase} with an {organic-rich mobile phase} retains and separates {polar substances.}                            |
 | **Size-exclusion chromatography (SEC)**           | Separation depends on {access to pores}: large molecules generally elute first because they enter fewer pores.                      |
-| **Ion-exchange chromatography**                   | Charged substances bind reversibly to oppositely charged groups on the stationary phase.                                            |
+| **Ion-exchange chromatography**                   | {Charged substances} bind {reversibly} to {oppositely charged} groups on the stationary phase.                                      |
 
 2. Spectroscopy
 
