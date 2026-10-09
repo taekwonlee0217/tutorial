@@ -4,4 +4,5 @@ Give [Topic] questions and answers in sentences.
 	ex) {question1} : {Answer}/{keyword1}, {keyword2}...
 2. Number questions. 
 3. Organize the questions into topics and divide them into smaller sections.
+4. When all the questions are formed in smallest section, make a sentence that incorporate all the questions inside of that section. 
 
