@@ -439,13 +439,13 @@
 
 ### 8.1 Capillary zone electrophoresis
 
-178. {What is the principle of capillary zone electrophoresis, CZE?} : {CZE separates dissolved analytes in a narrow capillary according to differences in electrophoretic mobility under an applied electric field.}/{CZE}, {narrow capillary}, {electrophoretic mobility}, {electric field}
+178. {What is the principle of capillary zone [^3]electrophoresis, CZE?} : {CZE separates dissolved analytes in a narrow capillary according to differences in electrophoretic mobility under an applied electric field.}/{CZE}, {narrow capillary}, {electrophoretic mobility}, {electric field}
     
 179. {How can a sample be introduced into a CZE capillary?} : {A sample can be loaded electrokinetically by applying a voltage that drives charged analytes into the capillary.}/{electrokinetically}, {voltage}, {charged analytes}, {capillary}
     
 180. {Why might a sample be fluorescently labelled before CZE?} : {Fluorescent labelling allows sensitive fluorescence detection when the analyte does not provide a sufficiently strong natural signal.}/{fluorescent labelling}, {fluorescence detection}, {natural signal}
     
-181. {How is a CZE capillary arranged during separation?} : {The capillary ends are immersed in electrolyte reservoirs connected to electrodes, and the instrument controls the applied voltage and temperature.}/{electrolyte reservoirs}, {electrodes}, {applied voltage}, {temperature}
+181. {How is a CZE capillary arranged during separation?} : {The capillary ends are immersed in electrolyte reservoirs connected to electrodes, and the instrument controls the applied voltage and temperature.}/{electrolyte [^4]reservoirs}, {electrodes}, {applied voltage}, {temperature}
     
 182. {What determines electrophoretic mobility?} : {Electrophoretic mobility depends on the balance between electrical force and friction, with analyte charge, hydrodynamic size, and solvent viscosity influencing migration.}/{electrical force}, {friction}, {hydrodynamic size}, {solvent viscosity}
     
@@ -518,3 +518,7 @@
 [^1]: 종단적
 
 [^2]: 분산성의
+
+[^3]: 전기장을 이용하여 분자들을 분리함
+
+[^4]: 저장소
